@@ -48,3 +48,7 @@ C?Temp/
 
 # Assets temporaires (si nécessaire, ajuster selon vos besoins)
 # assets/
+
+# Fichiers Figma volumineux
+*.fig
+figma - source_portfolio.fig
