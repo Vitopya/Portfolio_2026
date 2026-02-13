@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { SectionLabel } from '@/components/ui/SectionLabel';
+import { FadeIn } from '@/components/ui/FadeIn';
 import { testimonials, clientLogos, quoteIconSrc } from '@/data/testimonials';
 
 function TestimonialCard({ t }: { t: (typeof testimonials)[number] }) {
@@ -46,30 +47,36 @@ function TestimonialCard({ t }: { t: (typeof testimonials)[number] }) {
 export function ClientsSection() {
   return (
     <section className="py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
-      <SectionLabel>Clients &amp; Références</SectionLabel>
+      <FadeIn>
+        <SectionLabel>Clients &amp; Références</SectionLabel>
+      </FadeIn>
 
-      {/* Logo strip — 3-col mobile → 5-col tablet → 9-col desktop (single row) */}
-      <div className="grid grid-cols-3 md:grid-cols-5 xl:grid-cols-9 gap-4 xl:gap-10 items-center mb-14">
-        {clientLogos.map((logo) => (
-          <div
-            key={logo.name}
-            className="relative w-full aspect-square max-w-[5rem] mx-auto hover:opacity-80 transition-opacity"
-          >
-            <Image
-              src={logo.src}
-              alt={logo.name}
-              fill
-              className="object-contain"
-              sizes="(max-width: 768px) 33vw, (max-width: 1280px) 20vw, 5rem"
-            />
-          </div>
-        ))}
-      </div>
+      {/* Logo strip */}
+      <FadeIn delay={0.1}>
+        <div className="grid grid-cols-3 md:grid-cols-5 xl:grid-cols-9 gap-4 xl:gap-10 items-center mb-14">
+          {clientLogos.map((logo) => (
+            <div
+              key={logo.name}
+              className="relative w-full aspect-square max-w-[5rem] mx-auto hover:opacity-80 transition-opacity"
+            >
+              <Image
+                src={logo.src}
+                alt={logo.name}
+                fill
+                className="object-contain"
+                sizes="(max-width: 768px) 33vw, (max-width: 1280px) 20vw, 5rem"
+              />
+            </div>
+          ))}
+        </div>
+      </FadeIn>
 
-      {/* Testimonials — 1 col mobile → 3 col desktop */}
+      {/* Testimonials */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-5">
-        {testimonials.map((t) => (
-          <TestimonialCard key={t.name} t={t} />
+        {testimonials.map((t, i) => (
+          <FadeIn key={t.name} delay={i * 0.12}>
+            <TestimonialCard t={t} />
+          </FadeIn>
         ))}
       </div>
     </section>

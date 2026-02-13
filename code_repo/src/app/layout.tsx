@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
+import { BackToTopButton } from '@/components/ui/BackToTopButton';
+import { SmoothScrollProvider } from '@/components/providers/SmoothScrollProvider';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -17,9 +19,12 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body>
-        <Navbar />
-        <main>{children}</main>
-        <Footer />
+        <SmoothScrollProvider>
+          <Navbar />
+          <main>{children}</main>
+          <Footer />
+          <BackToTopButton />
+        </SmoothScrollProvider>
       </body>
     </html>
   );

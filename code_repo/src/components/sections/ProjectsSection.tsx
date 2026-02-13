@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { Tag } from '@/components/ui/Tag';
+import { FadeIn } from '@/components/ui/FadeIn';
 import { projects } from '@/data/projects';
 
 function ProjectCard({ project }: { project: (typeof projects)[number] }) {
@@ -71,26 +72,32 @@ export function ProjectsSection() {
   return (
     <section className="bg-[#FAFAFA] py-12">
       <div className="max-w-[80rem] mx-auto px-5 md:px-20">
-        <SectionLabel>Projets</SectionLabel>
+        <FadeIn>
+          <SectionLabel>Projets</SectionLabel>
+        </FadeIn>
 
         {/* Responsive grid: 1 col mobile → 2 col desktop */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {featured.map((project) => (
-            <ProjectCard key={project.slug} project={project} />
+          {featured.map((project, i) => (
+            <FadeIn key={project.slug} delay={i * 0.1}>
+              <ProjectCard project={project} />
+            </FadeIn>
           ))}
         </div>
 
-        {/* See all — increased top spacing */}
-        <div className="flex justify-end mt-8">
-          <Link
-            href="/projects"
-            className="inline-flex items-center gap-2 text-sm font-medium text-[#020826] hover:text-[#8C7851] transition-colors px-2 py-1"
-            style={{ fontFamily: 'Synonym, sans-serif' }}
-          >
-            Explorer tous les projets
-            <ArrowRight size={14} strokeWidth={2} />
-          </Link>
-        </div>
+        {/* See all */}
+        <FadeIn>
+          <div className="flex justify-end mt-8">
+            <Link
+              href="/projects"
+              className="inline-flex items-center gap-2 text-sm font-medium text-[#020826] hover:text-[#8C7851] transition-colors px-2 py-1"
+              style={{ fontFamily: 'Synonym, sans-serif' }}
+            >
+              Explorer tous les projets
+              <ArrowRight size={14} strokeWidth={2} />
+            </Link>
+          </div>
+        </FadeIn>
       </div>
     </section>
   );

@@ -2,6 +2,7 @@ import Image from 'next/image';
 import { ArrowUpRight } from 'lucide-react';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { Tag } from '@/components/ui/Tag';
+import { FadeIn } from '@/components/ui/FadeIn';
 import { articles } from '@/data/articles';
 
 function ArticleCard({ article }: { article: (typeof articles)[number] }) {
@@ -28,7 +29,7 @@ function ArticleCard({ article }: { article: (typeof articles)[number] }) {
       {/* Frame 103 — title + excerpt + button (no border separator) */}
       <div className="flex flex-col gap-2 flex-1">
         <h3
-          className="text-2xl font-semibold text-[#020826] leading-tight"
+          className="text-lg font-semibold text-[#020826] leading-tight"
           style={{ fontFamily: 'Synonym, sans-serif' }}
         >
           {article.title}
@@ -59,12 +60,16 @@ function ArticleCard({ article }: { article: (typeof articles)[number] }) {
 export function ArticlesSection() {
   return (
     <section className="py-12 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
-      <SectionLabel>Derniers articles</SectionLabel>
+      <FadeIn>
+        <SectionLabel>Derniers articles</SectionLabel>
+      </FadeIn>
 
       {/* Responsive grid: 1 col mobile → 3 col desktop */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-        {articles.map((article) => (
-          <ArticleCard key={article.title} article={article} />
+        {articles.map((article, i) => (
+          <FadeIn key={article.title} delay={i * 0.1}>
+            <ArticleCard article={article} />
+          </FadeIn>
         ))}
       </div>
     </section>
