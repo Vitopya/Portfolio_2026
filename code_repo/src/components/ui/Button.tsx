@@ -16,9 +16,9 @@ interface ButtonProps {
 /* Colors from design system */
 const variants: Record<ButtonVariant, string> = {
   primary:
-    'bg-[#8C7851] text-[#FFFFFE] hover:bg-[#716040] px-5 py-2.5',   // Button + Btn-text
+    'bg-[#8C7851] text-[#FFFFFE] hover:bg-[#716040] px-4 py-2',
   outline:
-    'border border-[#8C7851] text-[#8C7851] hover:bg-[#8C7851] hover:text-[#FFFFFE] px-5 py-2.5',
+    'border border-[#8C7851] text-[#8C7851] hover:bg-[#8C7851] hover:text-[#FFFFFE] px-4 py-2',
   ghost:
     'text-[#020826] hover:text-[#8C7851] px-0 py-0',
 };

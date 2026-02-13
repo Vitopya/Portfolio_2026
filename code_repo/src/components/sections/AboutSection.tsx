@@ -5,30 +5,32 @@ import { SectionLabel } from '@/components/ui/SectionLabel';
 
 export function AboutSection() {
   return (
-    <section className="py-20 px-20 max-w-[1280px] mx-auto">
-      <div className="grid grid-cols-2 gap-16 items-center">
-        {/* Image */}
-        <div className="relative aspect-[3/4] overflow-hidden bg-[#EADDCF]">
+    <section className="py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+      <SectionLabel>À propos</SectionLabel>
+
+      {/* Responsive grid — image first on mobile */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-[4.5rem] items-start">
+        {/* Image — 1:1 square, always first in DOM → first on mobile */}
+        <div className="relative aspect-square overflow-hidden rounded-[4px] bg-[#EADDCF]">
           <Image
             src="/images/homepage/about/Joseph_illustrated.jpeg"
             alt="Joseph Deffayet"
             fill
             className="object-cover"
-            sizes="560px"
+            sizes="(max-width: 768px) 100vw, 50vw"
           />
         </div>
 
         {/* Content */}
-        <div>
-          <SectionLabel>À propos</SectionLabel>
+        <div className="flex flex-col gap-6">
           <h2
-            className="font-medium text-[#020826] mb-6 leading-tight"
-            style={{ fontFamily: 'Amulya, serif', fontSize: '40px' }}
+            className="font-medium text-[#716040] leading-tight text-[2rem] md:text-[2.5rem]"
+            style={{ fontFamily: 'Amulya, serif' }}
           >
             Qui je suis
           </h2>
 
-          <div className="space-y-4 mb-8">
+          <div className="space-y-4">
             <p
               className="text-base font-normal text-[#020826] leading-relaxed"
               style={{ fontFamily: 'Synonym, sans-serif' }}
@@ -50,7 +52,7 @@ export function AboutSection() {
 
           <Link
             href="/about"
-            className="inline-flex items-center gap-2 bg-[#8C7851] text-[#FFFFFE] text-base font-medium px-6 py-2.5 hover:bg-[#716040] transition-colors rounded-[4px]"
+            className="self-start inline-flex items-center gap-2 bg-[#8C7851] text-[#FFFFFE] text-base font-medium px-6 py-2.5 hover:bg-[#716040] transition-colors rounded-[4px]"
             style={{ fontFamily: 'Synonym, sans-serif' }}
           >
             Découvrir mon parcours

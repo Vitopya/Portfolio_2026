@@ -8,7 +8,7 @@ interface SectionLabelProps {
 export function SectionLabel({ children, className }: SectionLabelProps) {
   return (
     <p
-      className={cn('text-base font-normal text-[#716040] mb-4', className)}
+      className={cn('text-base font-normal text-[#716040] uppercase mb-6', className)}
       style={{ fontFamily: 'Amulya, serif' }}
     >
       {children}
