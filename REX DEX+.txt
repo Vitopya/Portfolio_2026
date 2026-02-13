@@ -1,0 +1,2219 @@
+REX DEX+
+Retour d’expérience sur le programme DEX+
+2023-2025
+Janvier 2023 à décembre 2025 · Par l’équipe du Programme DEX+
+
+SOMMAIRE
+
+01. GENÈSE DU PROGRAMME DEX+
+A. Les faits générateurs ;
+B. Immersion 2023 ;
+C. Lancement du Programme DEX+ ;
+D. L’équipe mobilisée et gouvernance ;
+E. Engagement national ;
+
+02. LES 3 GRANDS PROJETS
+A. DEXCARTO ;
+B. SCHMIEUX ;
+C. CODEX ;
+D. Gouvernance et suivi.
+
+03. ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience ;
+B. Enseignements transversaux ;
+C. Potentiel ;
+
+---
+
+GENÈSE DU PROGRAMME DEX+
+
+01 • Les faits générateurs ;
+• Immersion 2023 ;
+• Lancement du Programme DEX+ ;
+• L’équipe mobilisée et gouvernance ;
+• Engagement national ;
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+A. Les faits générateurs
+
+Trois urgences convergentes
+
+Performance industrielle dans le cadre du plan stratégique :
+Programme nécessaire pour réaliser la trajectoire d’investissement attendue.
+Besoin de gain de PERFORMANCE.
+
+1  
+Aspect engagement du métier des agents signalisation suite au retour des enquêtes Allure :
+Engagement du métier ES à 0,57 (moy. SNCF 0,72) suite aux retours des enquêtes.
+ATTRACTIVITÉ DU MÉTIER à développer.
+
+2  
+Visite de Jean-Claude L. (Directeur Risques Audits Sécurité Sûreté) à la DE IDF site Saint-Martin :
+« Je suis confirmé dans l’idée qu’il faut investir dans la réflexion sur les
+processus du métier et ses outils. »
+Aspect SÉCURITÉ à renforcer dans les processus.
+
+3  
+Indispensable pour réaliser
+des études ferroviaires dans
+les prochaines années
+et insuffler un nouveau
+souffle au métier.
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+B. Immersion 2023
+
+En janvier 2023, une immersion totale centrée utilisateur a été
+lancée et menée auprès de la population des agents d’études
+DEX des PEI d’Île-de-France pendant 4 mois.
+
+Cette démarche a consisté à :
+• EXPLORER les métiers qui composent l’écosystème des DEX ;
+• RENCONTRER chaque acteur concerné sur le terrain, dans les PEI,
+  au contact direct des agents ;
+• COMPRENDRE les tâches et actions de leur quotidien ;
+• Et RECUEILLIR aussi bien leurs frustrations et bloquants que leurs
+  besoins et leurs attentes.
+
+Comprendre le terrain avant d’agir
+
+• 20+ utilisateurs interviewés individuellement
+• 28 heures d'entretiens et ateliers cumulés
+• 3 phases d'observation sur le terrain
+• 7 profils métiers explorés
+
+L’IMMERSION EN CHIFFRES
+
+Salles des collections DEX, STM et MOU  
+Folio conforme dans une guérite
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+B. Immersion 2023
+
+Les résultats de ce travail ont permis de structurer le socle des
+projets du Programme DEX+, et notamment l’un d’entre eux qui
+s’est fortement appuyé sur les constats unanimes suivants :
+
+Les enseignements clés du rapport de recherche,
+entre besoins criants et risques majeurs
+
+79 % des agents interrogés remontent :
+« Nous ne sommes pas assez formés
+sur les outils et usages actuels »
+
+Implications :
+• Perte de temps considérable ;
+• Erreurs évitables ;
+• Transmission des savoirs défaillante ;
+• Frustration quotidienne ;
+
+Une dette technique massive
+
+Problèmes récurrents identifiés :
+• Outils vieillissants et vétustes, performances dégradées ;
+• Bugs non corrigés depuis des années ;
+• Parcours utilisateurs non optimisés ;
+• Dépendance à des « sachants » isolés ;
+• Documentation inexistante ou obsolète ;
+
+10 grandes thématiques
+de besoins et actions
+court, moyen et long
+termes identifiés
+
+Livrables de l’immersion
+• Backlog structuré des besoins utilisateurs priorisés ;
+• Sitemap d’analyse des besoins fonctionnels ;
+• 7 personae projet ;
+• Rapport d’immersion avec hypothèses et recommandations ;
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+C. Lancement du Programme DEX+
+
+De l'exploration terrain à la formalisation stratégique :
+les enseignements de l'immersion et le travail avec les
+parties prenantes ont abouti mi-2023 à la création du
+Programme DEX+ et de ses 3 projets cœur.
+
+DEXCARTO · SCHMIEUX · CODEX
+
+Kick-off de lancement DEX+ · Décembre 2024
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+D. L’équipe mobilisée et gouvernance
+
+Mise à jour de la note de cadrage décrivant l’organisation du programme  
+Accord de principe de tous les acteurs sur le contenu de la note
+
+DESIGN, RECHERCHE & ACCOMPAGNEMENT  
+Lead designer : Joseph D. [ext]  
+Designer & researcher : Anna A.  
+Responsable communication – Conduite du changement : Manon E. [ext]  
+Designer : Solenn L.  
+Software design & development : Wissal B.  
+
+DÉVELOPPEMENT LOGICIEL  
+Développeur fullstack : Nicolas C.  
+Développeur logiciel : Nathan D.  
+Ingénieur développement outils : Antoine O.  
+Ingénieur développement logiciel : Mathieu D.  
+
+CHEFFERIE DE PROJET  
+Responsable du programme DEX+ – Chef de projet CODEX : Sylvain B.  
+Cheffe de projet SCHMIEUX : Beyza T.  
+Chef de projet DEXCARTO : Xavier S. [ext]  
+Appui chef de projet : Mohamed O. [ext]  
+Product owner : Laurent B. [ext]
+
+INGÉNIERIE ET CONCEPTION  
+Ingénieur conception : Antoine S.  
+Ingénieur conception : Antoine T.  
+Ingénieure IA & algo : Pauline V.  
+Ingénieure : Yinghua M.  
+Ingénieur : Clément M.  
+Ingénieur : Omar A.  
+Ingénieur : Aymane D.  
+
+---
+
+01. GENÈSE DU PROGRAMME DEX+
+E. Engagement national
+
+La démarche de design centré utilisateur se fonde
+sur la compréhension des besoins des agents en les
+incluant dès le début dans la construction de la solution et
+sur une évaluation continue et itérative de celle-ci pour
+assurer son adoption et sa pérennité.
+
+1. EXPLORER & COMPRENDRE  
+Observer les usages et relever les besoins des agents par une
+immersion méthodique. Enrichir et consolider ce socle de
+données empiriques par les ateliers pour structurer et guider les
+choix et les actions subséquents de manière pertinente.
+
+2. CONSTRUIRE  
+Notre compréhension et la cartographie de leurs parcours
+observés en phase d'analyse permet de transformer avec les
+agents leurs besoins en des fonctionnalités pleinement
+intégrées à leurs tâches et leur environnement.
+
+3. DÉLIVRER ET ACCOMPAGNER  
+Suivre l'adoption des solutions par les utilisateurs, évaluer et
+intégrer les améliorations nécessaires au fil de tests en continu
+pour garantir l'adéquation des solutions avec l'évolution des
+métiers à long terme.
+
+01. Genèse du programme DEX+  
+E. Engagement national
+
++ 70 participants engagés au niveau national  
++ 695 heures d’ateliers  
+62 % de taux de participation moyen  
++ 42 ateliers réalisés
+
+Un programme construit avec et pour les utilisateurs
+
+---
+
+LES 3 GRANDS PROJETS
+
+02 • DEXCARTO ;  
+• SCHMIEUX ;  
+• CODEX ;  
+• Gouvernance et suivi.
+
+---
+
+DEXCARTO
+
+A. Faciliter visuellement la réalisation, le suivi
+et l'ordonnancement des études DEX
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Repenser l’existant à grande valeur ajoutée
+pour des résultats rapides
+
+Constats initiaux
+• Nombre croissant de projets par agent d’études ;
+• Processus perfectibles (outils insuffisants ou sous-utilisés, allers-retours papier) ;
+• Technologies de poste de signalisation complexes, variées et anciennes ;
+• Concomitance ou proximité spatio-temporelle des projets ;
+• Grand nombre de modifications difficiles à séquencer ;
+• Absence de vision géographique et chronologique de la quantité d’études dans une zone.
+
+DEXCARTO est un projet de création d’un outil permettant de
+faciliter visuellement la réalisation, le suivi et l’ordonnancement
+des études d’exécution (DEX) par les agents d’études
+signalisation.
+
+Le produit DEXCARTO s'appuie sur une démarche de design
+centrée utilisateur couplée à la conception incrémentale d'une
+preuve de concept efficace dès ses premières fonctionnalités.
+
+Cette innovante visualisation des études et travaux s'appuiera
+sur de multiples sources de données affichées sur une carte
+en temps réel.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Chef de projet DEXCARTO : Xavier S. [ext]  
+Product owner DEXCARTO : Vinciane D.  
+Product owner DEXCARTO : Meriem N. [ext]
+
+L’équipe projet  
+Anna A. – UX Designer & Researcher  
+Hugo B. – UX/UI Designer  
+Camille L. – UX/UI Designer  
+Alexis C. – UX/UI Designer  
+
+Équipes de services dédiés (data, infra…)  
+Développeurs Back / Front :  
+• Thibault N. – Développeur Back  
+• Clément G. – Développeur Front  
+• Paula F. – Développeur Back  
+• Robin L. – Développeur Back  
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Vision et enjeux métier
+
+Construire un outil cartographique et de recherche, simple,
+pour visualiser et rechercher sur une carte :
+• Les installations de signalisation ;
+• Les zones d’action des postes et les collections correspondantes ;
+• Les projets travaux et leurs concomitances d’impacts sur les supports ;
+• Et de nombreuses informations relatives aux statuts des collections DEX.
+
+Enjeux métier :
+• Densification des projets travaux avec fortes
+  concomitances d'impact sur les postes ;
+• Criticité de l'étape DEX dans la réalisation des projets ;
+• Difficulté d'appréhender une zone ou des installations peu familières ;
+• Importance d'identifier rapidement les collections liées
+  aux installations ;
+• Complexité d'ordonnancement des études et des projets,
+  liée à la disponibilité des supports DEX ;
+• Enjeu de visualisation géographique des projets et des
+  installations pour un meilleur pilotage.
+
+PAROLE D’UTILISATEUR  
+« Une petite révolution pour nos études. »
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Processus de construction
+
+1. Démarche centrée utilisateur
+• Conception au plus près du métier ;
+• Tests utilisateurs réguliers.
+
+2. Démarche data
+• Appréhension et connexion aux sources de données (GAIA, VIZIR,
+  ARPE, SEISM, etc.) ;
+• Identification des risques qualité.
+
+3. Démarche démonstrateur
+• Levée de risques techniques ;
+• Mise à disposition anticipée.
+
+PHASE SOCLE – Préalable à l’industrialisation  
+DEXCARTO s’appuie sur une triple démarche socle, préalable à l’industrialisation :
+
+Juillet 2024 : Fourniture du démonstrateur (V0) avec 30+ utilisateurs en cours
+d'utilisation pour validation des hypothèses et retours terrain.
+
+1. Méthodologie et processus
+• Refonte de l'interface et des modèles de données ;
+• Design et conception technique amont ;
+• Architecture urbanisée ;
+• Développements agiles.
+
+2. Produit industrialisé
+• Performances et maintenabilité ;
+• Simplicité d'utilisation ;
+• Fonctionnalités améliorées.
+
+PHASE INDUSTRIELLE – Transition démonstrateur → produit industrialisé  
+
+Novembre 2024 : V1.0, Livraison d’une version industrielle
+pour un déploiement plus large.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Réalisation
+
+Utilisateurs : Agents projeteurs, agents vérificateurs, acteurs des
+Infrapôles, Autorités Locales Compétentes, etc.
+
+Les enjeux :
+• Visualiser géographiquement les installations de signalisation,
+  les collections et les projets travaux ;
+• Rechercher et naviguer dans les données cartographiques ;
+• Identifier les concomitances et les impacts sur les supports DEX ;
+• Appréhender les zones peu familières rapidement.
+
+Utilisateurs : Chefs de groupe et autres responsables
+
+Les enjeux :
+• Planifier et séquencer les études selon la disponibilité des
+  supports DEX ;
+• Anticiper les conflits d'indices et les études simultanées ;
+• Optimiser la charge de travail des équipes ;
+• Se coordonner avec les projets travaux (COPLANN, SUSIE, etc.).
+
+Ordonnancement
+
+Une réalisation en deux temps pour deux familles de besoins  
+DEXCARTO répond à ces deux familles de besoins grâce à des fonctionnalités dédiées livrées progressivement.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Exploration des besoins : campagne d’ateliers DEXCARTO
+
+Après un atelier préparatoire général, la décision a été prise
+de diviser les ateliers en 2 groupes et les mener séparément
+en miroir, pour cibler les 2 familles de besoins tout en
+compilant les insights de la démarche DEXCARTO in fine :
+• Récolte du besoin ;
+• Rédaction de cas d’usage ;
+• Réalisation de parcours utilisateur ;
+• Idéation ;
+• Conception et revue de fonctionnalités ;
+• Revue des maquettes basse-fidélité.
+
+18 participants de 14 PEI différents  
+17 ateliers d’idéation et co-construction  
+34 heures d’atelier
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Représentation des fonctionnalités : conception des wireframes et maquettes
+
+La complexité des besoins utilisateur expliquée par un agent sur un poste complexe
+
+• Réalisation d’un benchmark : interfaces d'outils de visualisation
+  cartographiques avec couches, vues scindées, ajouts de points
+  personnalisés mais aussi d’ordonnancement, de calendriers, répartition de
+  charge entre agents et études, étude des outils et documents
+  d’ordonnancement utilisés au quotidien par les agents et chefs de groupe ;
+• Choix d’une bibliothèque de composants et réalisation de composants sur-mesure
+  pour correspondre exactement au besoin utilisateur ;
+• Analyse du vocabulaire des agents et métiers afin de choisir les mots
+  exacts tout en gardant un design de contenu cohérent à travers les
+  interfaces et transmettre des recommandations à l’équipe projet ;
+• Revue des interfaces avec les agents pour affiner l’architecture et la
+  traduction des parcours utilisateurs en interfaces ;
+• Tests utilisateur avec les agents avec protocole de test et implémentation
+  des retours.
+
+Maquettes basse-fidélité du module de réalisation (haut) et d’ordonnancement (bas)  
+Benchmark d’interfaces
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Développement
+
+DEXCARTO a été développé entièrement – à part la carte – sans librairies
+graphiques, pour le module ordonnancement comme pour celui de
+réalisation. Cela signifie que tous les composants ont été faits à partir de
+zéro, en l’absence de librairie répondant aux besoins, notamment pour le
+calendrier et la représentation linéaire de l’ordonnancement.
+
+Le front-end a été développé en flux tendu avec des tests en équipe
+restreinte, tandis que le back-end a été soumis à une batterie de tests
+unitaires.
+
+Front-end : langage Typescript, framework React  
+Back-end : langage Python, framework Django  
+
+LES TECHNOS
+
+LA CARTE DE DEXCARTO
+• La carte est issue du logiciel libre de droits Maplibre.org.
+  Il permet d’afficher et de manipuler les différentes
+  couches à partir du code (fond de carte, couches de voies, signaux, etc.).
+• Le fond de carte et les données géographiques proviennent
+  d’OpenStreetMap.
+
+Démonstrateur – Livraison V0  
+Industrialisation (V1) : reprise à zéro, améliorations techniques  
+
+Réalisation – Réalisation – Ordonnancement  
+2023 – 06.2024 – 12.2024 – 12.2024
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+V1.0 et fonctionnalités livrées
+
+Aperçu de la version v1.0 livrée :
+• Navigation, cartes duales (schématique/géographique) ;
+• Voies, couches infra ;
+• Postes, IHM, tronçons, zones d’actions, adjacences ;
+• Travaux (projets, concomitances) ;
+• Modales objets, objets superposés ;
+• Modales collections (indices) ;
+• Tableaux de collections et recherche ;
+• Vues, périmètres, favoris ;
+• Objets à l’écran (postes, tronçons, travaux) ;
+• Recherche simple sur infra et travaux ;
+• Génération automatique du fond de plan d'une zone d'intérêt ;
+• Création automatique et/ou édition manuelle de polygones ;
+• Visualisation et édition d'attributs ;
+• Commentaires, reporting (data, bug, idées).
+
+DEXCARTO est doté de nombreuses fonctionnalités, grâce à la participation
+active des utilisateurs qui ont apporté un grand nombre d'idées et
+d'exigences, ainsi que la réutilisation de briques existantes.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Adoption nationale & satisfaction utilisateur
+
+DÉPLOIEMENT NATIONAL
+• 500+ utilisateurs touchés en novembre 2025 ;
+• 18 PEI embarqués ;
+• 20 webinaires réalisés ;
+• Utilité identifiée au-delà du métier SE DEX ;
+• Version 2 et module d’ordonnancement livrés,
+  à déployer prochainement.
+
+GAINS ET IMPACTS
+• Gain de temps sur les études DEX et les
+  estimations/dimensionnements ;
+• Gain d’attractivité (contribution au dynamisme perçu par
+  le métier SF ES) ;
+• Continuité numérique (écosystème applicatif) et travail
+  sur la donnée ;
+• Contribution à alimenter une vision système multi-métiers
+  du sujet Travaux & Ingénierie en signalisation.
+
+COLLABORATION À IMPACT
+• 10+ nouvelles fonctionnalités conçues et développées
+  à partir des retours des utilisateurs ;
+• Un backlog vivant et alimenté en continu.
+
+QUELQUES VERBATIMS
+• « Je retrouve énormément des expressions
+  de besoin formulées, c’est assez bluffant », agent d’études DEX ;
+• « C’est vraiment super, je pense que c’est la
+  première application que certains agents
+  ouvriront le matin chez nous ! », adjoint
+  responsable de groupe ;
+• « C’est assez riche, je ne pensais pas trouver
+  tout ça ! », utilisateur de Rouen ;
+• « En salle de crise, nous cherchions à
+  comprendre où se situait un vol de câbles sur la
+  LGV Nord. Avec DEXCARTO, on voit tout de
+  suite les installations concernées et les postes
+  impactés », Directeur technique DG IGM DTII.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Les difficultés rencontrées
+
+Obstacles techniques : l’accès aux données
+• Interfaces SI multiples et indispensables pour puiser la donnée (GAIA, VIZIR,
+  ARPE, SEISM, OURANOS), hétérogénéité, risques qualité identifiés dès la
+  phase socle ;
+• Dépendances d'interfaçage : nombreux systèmes critiques à coordonner.
+
+La complexité de l’ordonnancement
+• Retards sur la livraison des fonctionnalités initialement prévues en 2024 dus à
+  la complexité métier ;
+• Certains PEI émettent de la résistance car habitués à utiliser d’autres outils
+  type SUSIE pour suivre l’état des collections DEX et obtenir les temporalités,
+  Commande STRAT pour l’ordonnancement ou encore COPLAN lorsqu’une
+  étude est en phase REA.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+A. DEXCARTO
+
+Obstacles et apprentissages
+
+Les apprentissages et fiertés
+• Approche démonstrateur = accélérateur : validation des hypothèses +
+  retours terrain avant l’industrialisation = sécurisation de l’investissement ;
+• Architecture urbanisée indispensable : sans refonte complète des
+  modèles de données, impossible de passer à l’échelle puis maintenir ;
+• La donnée comme socle non négociable : identification des risques
+  qualité dès phase socle = adaptation tactique de l’approche ;
+• Un potentiel inattendu hors cible : intérêt croissant hors périmètre des
+  DEX qui confirme la pertinence de cet outil pour une collaboration inter-services ;
+• Perspectives et opportunités : une passerelle DEXCARTO-CODEX pour
+  une continuité numérique cohérente entre les niveaux d’études et un
+  élargissement du périmètre.
+
+---
+
+SCHMIEUX
+
+B. Repenser l'existant à grande valeur ajoutée
+pour des résultats rapides
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Repenser l’existant à grande valeur ajoutée
+pour des résultats rapides
+
+Contexte initial
+• Dette technique lourde sur SCHME/EPURE ;
+• 79 % des agents ne sont pas ou pas assez formés ;
+• Problèmes de performance récurrents ;
+• Transmission des savoirs défaillante (« école de la vie ») ;
+• Disparités entre les manières de faire de chaque PEI.
+
+SCHMIEUX est un projet d’amélioration continue
+et de formation aux gestes métier sur un outil existant.
+
+SCHMIEUX a pour objectif d’identifier, analyser puis
+améliorer l'utilisabilité des outils actuels employés par
+les agents DEX à court terme.
+
+Le projet SCHMIEUX s’appuie sur la démarche de design
+centré utilisateur qui se fonde sur la compréhension des
+besoins des agents en les incluant dès le début dans la
+construction de la solution et sur une évaluation continue
+et itérative de celle-ci pour assurer son adoption
+et sa pérennité.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+L’équipe projet
+
+Lead designer : Joseph D. [ext]  
+Conduite du changement : Manon E. [ext]  
+Développeur fullstack : Nicolas C.  
+Ingénieur logiciel : Nathan D.  
+Ingénieur développement outils : Antoine O.  
+Cheffe de projet SCHMIEUX : Beyza T.  
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Une vision en deux axes stratégiques
+
+Axe formation des agents  
+Objectif : établir des bases solides de connaissances
+sur les couches SCHME et EPURE.
+
+Les enjeux :
+• Collaborer avec les agents pour développer un socle de formation de
+  base et une communication encourageant l'accès et l'adoption ;
+• Assurer une transmission plus efficace des connaissances métier et des
+  bonnes pratiques aux nouveaux agents ;
+• Diffuser les bonnes pratiques et actualiser la documentation existante pour
+  permettre un passage à l'échelle ;
+• Permettre aux PEI d'être autonomes dans la formation de leurs agents en
+  fournissant un kit de formation clé en main.
+
+Axe amélioration des outils  
+Objectif : améliorer SCHME en mieux pour une utilisation simplifiée
+et une maintenabilité assurée.
+
+Les enjeux :
+• Rendre SCHME plus simple d'utilisation pour les agents ;
+• Retravailler, créer et adapter les parcours utilisateurs aux processus métier ;
+• Optimiser les fonctionnalités existantes et résoudre les problèmes
+  (la complexité étant reportée vers CODEX, grâce aux fonctions CAO) ;
+• Faciliter l'installation et la mise à jour de SCHME ;
+• Intégrer les aspects de maintenabilité et de développement industriel ;
+• Répondre aux besoins des utilisateurs au niveau national avec un produit
+  uniformisé ;
+• Assurer la compatibilité avec de nouveaux outils de dessin industriel.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Les deux axes du projet SCHMIEUX reposent sur des cycles
+d’ateliers, offrant aux agents un espace d’expression libre
+pour partager leurs besoins et favoriser un processus itératif
+de co-construction.
+
+Axe formation
+• 13 agents embarqués dans les ateliers
+• 10 ateliers pour co-construire la nouvelle formation
+• 4 chapitres pour introduire les bases de SCHME
+• 4,6/5 de satisfaction sur la démarche
+• 2 formations pilotes pour tester et valider
+
+Axe outillage
+• 15 agents embarqués dans les ateliers
+• 5 ateliers sur différents blocs fonctionnels
+• 3 développeurs pour analyser et améliorer le code de SCHME
+• 4 sprints de design et de développement sur 70+ fonctionnalités
+• 3 mois de recueil des besoins et de développement intensif
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Exécution de l’Axe formation
+
+CYCLES DE L’AXE FORMATION · 2024 À 2025
+
+CYCLE 01 : STRUCTURATION ET CO-CONSTRUCTION
+• 5 ateliers de structuration et de co-construction de la formation sur les
+  bases et indispensables SCHME.
+• 1 atelier d’idéation autour de la création du kit
+  de formation clé en main idéal et des scénarios
+  pour formateurs.
+• 4 ateliers de relecture, itération et validation
+  des chapitres et contenus de la formation et du
+  kit de formation.
+• 2 agents co-rédigent et livrent le contenu des 4 chapitres de la formation
+  dans le respect du cadre défini.
+
+CYCLE 02 : CRÉATION ET MISE À JOUR DU CONTENU PÉDAGOGIQUE ET DU KIT
+• Benchmark des formations mené par l’Appui Communication DEX+.
+• Conception du contenu clé en main du kit de formation.
+• 2 sessions de formation pilotes auprès de 2
+  groupes d’agents.
+• Améliorations et mises à jour
+  de la formation et de son kit
+  en parallèle de l’avancement
+  de l’axe SCHMIEUX outillage.
+
+L'axe formation s'est structuré sur 8 mois d'un travail intense. Deux chantiers ont été
+menés de front : créer une formation pédagogique complète en partant de zéro,
+et développer un kit clé en main. Formation et kit ont ensuite été perfectionnés en
+continu grâce aux retours des pilotes et aux synergies avec l'axe SCHMIEUX outillage.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Réalisations de l’axe formation : support pédagogique
+
+Une formation construite POUR et AVEC les agents !
+
+Au cœur du kit de formation SCHMIEUX : un support pédagogique
+structuré en quatre chapitres essentiels. Loin d'être une simple
+présentation descendante, c'est un véritable outil ludique et interactif
+pensé pour optimiser l'apprentissage des agents DEX.
+
+Pour rappel, un chapitre de la formation est composé entre autres de :
+• Contenus textuels pour les informations techniques et les
+  recommandations de bonnes pratiques ;
+• Captures d'écran et vidéos pour illustrer les actions et les informations
+  complexes ;
+• Quiz et tests pour accompagner l'apprentissage des agents et créer un
+  environnement d'échange ;
+• Mise en forme qui reflète l'univers ludique du projet SCHMIEUX et du
+  programme DEX+.
+
+LE CHIFFRE : 220+ slides de formation rédigés et documentés  
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Réalisations de l’axe formation : kit de formation
+
+Pour rappel, l’objectif du kit est de fournir tous les outils nécessaires prêts
+à l'emploi pour accompagner méthodiquement les agents formateurs
+avant, pendant, et après la dispense de la formation au sein d'un PEI.
+
+Il est composé d’une vingtaine d’assets dont, entre autres :
+• Cahier des charges de la formation ;
+• Deck d’assets et modèles de communication ;
+• Questionnaires d’évaluation pré et post-formation ;
+• Guide des bonnes pratiques d’animation ;
+• Guide des étapes pour une campagne de formation réussie, etc.
+
+Les dates de livraison :
+• V1 kit : 26 novembre 2024 ;
+• V2 kit : 10 mars 2025 ;
+• V3 kit (finale) : septembre 2025.
+
+Formation en cours d'intégration à l’UDI.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Exécution de l’Axe outillage
+
+Audit & diagnostic  
+• Audit technique dans 2 PEI d'Île-de-France  
+  – Livrable : rapport 35 pages à l'attention de la MOA,
+    identification des difficultés liées aux contraintes
+    techniques AutoCAD et matériel ;
+
+• Plan d'action structuré en 4 lots d’action :
+  – Setup technique, analyses de code (structure,
+    qualité, performance) et cartographie des
+    spécificités PEI ;
+
+• Documentation exhaustive :
+  – Analyse de 74 fonctions SCHME, documentation
+    technique complète (structure, installation,
+    utilisation), étude code SCHME + environnements
+    Epure/AutoCAD et montée en compétences de
+    l’équipe (AutoLisp, C#).
+
+Conception  
+• Méthodologie centrée utilisateur :
+  – 5 ateliers pour traiter des différentes briques
+    fonctionnelles de SCHME/EPURE ;
+  – 15 agents embarqués dans les ateliers ;
+  – 35+ fonctionnalités développées ou améliorées ;
+  – 8 protocoles de tests utilisateurs effectués dans les
+    PEI au national entre 2024 et 2025 ;
+  – Mise en place d’une fonction de retours et
+    suggestions utilisateurs pour assurer un lien constant
+    avec les utilisateurs.
+
+Développement itératif  
+• Ateliers de conception → prototypage → développement → tests utilisateurs → itération → industrialisation.
+
+Run et amélioration  
+• Déploiement & itérations :
+  – 4 versions livrées (V1.1, V1.2, V2, V3), 4 sprints réalisés,
+    97 bugs détectés et traités et 167 tickets de
+    fonctionnalités et demandes conçus et développés ;
+
+• Qualité & industrialisation :
+  – Intégration des tests unitaires et tests fonctionnels (non
+    existants avant), couverture tests unitaires : AutoLisp
+    41,7 % / C# 41,2 % et 4 cahiers de tests fonctionnels par
+    grande brique fonctionnelle.
+
+• Compatibilité & accompagnement :
+  – Passage AutoCAD 2022 → BricsCAD v23 puis v25,
+    développement double et suivi entre environnements
+    API AutoCAD/BricsCAD, manuel utilisateur, webinaires et
+    assistance sur déploiement et utilisation.
+
+Décembre 2023 - Janvier 2024 et Juillet - Août 2024  
+Septembre 2024 - Décembre 2024  
+Janvier 2025 – Décembre 2025
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Réalisations de l’axe outillage 1/2
+
+• 70+ fonctions et parcours (retravaillés et nouveaux) ;
+• 1 UI kit, 50+ icônes et 40+ composants clés ;
+• 1 nouveau content design (ton et style) cohérent.
+
+LES CHIFFRES
+
+• Tests et revues réguliers avec les utilisateurs
+  embarqués dans la démarche ;
+• Sessions de tests utilisateurs menées en PEI ;
+• De premières estimations et métriques
+  se précisent :
+  – Réduction du nombre d’actions, gain de
+    temps global, réévaluation des gains en
+    productivité, etc.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Réalisations de l’axe outillage 2/2
+
+9 protocoles de tests utilisateurs
+effectués au national (Dijon,
+Toulouse, Bordeaux, Strasbourg,
+Tours, Lyon, Rouen, Reims et
+Limoges).
+
+LE CHIFFRE
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Adoption nationale & satisfaction utilisateur
+
+IMPACTS ET GAINS PROJETÉS
+
+Tests utilisateurs en PEI : premiers gains relevés (réduction notable du
+nombre d'actions, forts potentiels de gains en productivité et temps
+global passé sur une étude).
+
+Exemple concret (PEI Rouen) :  
+Traitement création/modification des indices d’un bordereau :
+• avant : « une demi-journée à une journée complète » ;
+• après : avec « Modèles d’étude », possibilité d'éliminer en quelques clics des tâches
+  sans plus-value.
+
+Gains projetés par la MOA :
+• Gain de productivité ~4,74 % fin 2024 et ~10 % fin 2025 ;
+• Soit ~21 600 heures et ~2 M€ de gains projetés post-déploiement.
+
+RETOUR UTILISATEURS
+• 58 retours utilisateurs collectés
+• 44 retours traités en développement (76 %)
+
+Échantillon :
+• « Dommage, vous avez trop bien bossé, j'ai l'impression
+  que tout fonctionne. »
+• « En tout cas merci pour votre travail et votre réactivité
+  (je n'ai pas l'habitude de ça) »
+• « En repassant sur SCHME, je me rends compte à quel
+  point l'expérience est meilleure avec SCHMIEUX. »
+
+QUELQUES VERBATIMS
+• « Le fait de venir nous voir, se déplacer,
+  nous expliquer, nous former c'est une
+  superbe démarche. On aurait aimé avoir eu ça
+  pour la GEP 2.0 », testeurs du PEI Bordeaux ;
+• « Surpris et impressionnés » du travail réalisé en
+  4 mois, testeurs de plusieurs PEI ;
+• Cette version propose une « meilleure
+  expérience pour les jeunes/nouveaux car la prise
+  en main est plus simple », participant d’un PEI
+  d’Île-de-France.
+
+MCO ET PÉRENNITÉ
+• Passage en garantie et transfert MCO à l’équipe DGII SF fin 2025.
+
+DÉPLOIEMENT
+• 200+ utilisateurs au 20 novembre 2025 ;
+• 16 villes embarquées ;
+• 4 versions déployées (V1.1, V1.2, V2, V3) ;
+• NPS en forte progression (50 en V2) ;
+• 4 webinaires réalisés ;
+• V3 prochainement déployée.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Contraintes, résistances et adaptations : ce qui a compliqué le projet 1/2
+
+Obstacles techniques
+
+Complexité du code legacy
+• Structure complexe et vieillissante du code AutoLisp non maintenu depuis une
+  dizaine d'années ;
+• Plusieurs mois de montée en compétence nécessaires (mars à septembre 2024) ;
+• Analyse de 70+ fonctions pour comprendre l'architecture dans son ensemble ;
+• Dette technique lourde à traiter avant toute amélioration.
+
+Compatibilité multi-environnements
+• Passage AutoCAD 2022 → BricsCAD v23 → BricsCAD v25 ;
+• Développement double et suivi entre environnements API AutoCAD/BricsCAD ;
+• Investissement lourd mais nécessaire pour une adoption nationale ;
+• Problèmes récurrents avec GTX RASTER sur BricsCAD (abandon par certains PEI) ;
+• Industrialisation de divers bouts de code développés par les agents.
+• Décalages de certaines livraisons (ex : V3) ;
+• Adéquation obligatoire à la trajectoire de livraison de DMOE POP.
+
+Obstacles organisationnels
+
+Difficulté de coopération – axes formation et outillage
+• Des difficultés de coopération ont été rencontrées avec plusieurs éléments de SF
+  ES, se traduisant par un refus de collaboration, une posture critique vis-à-vis du
+  projet, de mauvaises pratiques de gestion et de travail côté développement, etc. ;
+• Impact : ralentissement du processus et nécessité de contourner pour avancer ;
+• Absence d'un système de versionnage national (refus d’un Git commun) ;
+• Refus de partage du code source pour la partie EPURE.
+
+Hétérogénéité des pratiques des PEI
+• Recensement des pratiques, gestes métiers et modifications de code que les PEI
+  et agents ont dû développer au fil des années pour compenser l'absence de
+  solutions nationales adaptées et pallier les lacunes des outils existants.
+• Difficulté à uniformiser nationalement ;
+• Besoin d'adapter aux contextes locaux tout en garantissant une cohérence
+  globale à l’échelle nationale ;
+• Difficultés des installations dans les PEI dues aux particularités locales.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Contraintes, résistances et adaptations : ce qui a compliqué le projet 2/2
+
+Échecs et apprentissages
+
+Tests utilisateurs : bugs et résilience en temps réel
+• Installations problématiques sur certains postes utilisateurs ;
+• Plusieurs bugs identifiés pendant les sessions de tests utilisateurs ;
+
+Sous-estimation de la résistance au changement sur certains éléments
+indispensables de l’outil
+• Fonction « bibliothèque de symboles » : fonction ergonomiquement et
+  industriellement obsolète, mais solidement installée dans les routines
+  des agents après des années d'usage. Une refonte itérative en
+  collaboration rapprochée avec les utilisateurs a permis de concevoir une
+  solution approuvée et bien accueillie ;
+• Fonction « Modèles d’étude » ex-Module page de garde : fonctionnalité
+  puissante et appréciée pour ses capacités, mais pénalisée par des
+  parcours utilisateurs complexes et peu intuitifs. Sa refonte a exigé plus
+  de temps, d'itérations et d'échanges avec participants et testeurs
+  qu'initialement anticipé.
+
+Communication et visibilité
+• « Je ne sais même pas où trouver le lien pour installer SCHMIEUX », agent du PEI Lyon ;
+• Le projet a requis un investissement en communication conséquent pour gagner en
+  visibilité et identifier puis mobiliser les bons interlocuteurs ;
+• De nombreux imprévus liés au contexte du projet ont jalonné son
+  déroulement.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX
+
+Ce que nous avons appris et consolidé avec SCHMIEUX
+
+Apprentissages techniques
+• Audit approfondi = fondation indispensable :
+  – 3 semaines d’audit + plusieurs mois d’analyse = investissement rentabilisé ;
+  – Documentation exhaustive (74 fonctions) = clé de compréhension ;
+• Embarquer les utilisateurs dès l’audit = valeur immense :
+  – Recherche, ateliers, conception, développement, tests utilisateur = pivots décisifs
+    justifiés par ces échanges et cette coopération ;
+• Compatibilité double environnement = lourd mais nécessaire :
+  – AutoCAD + BricsCAD : développement double, suivi complexe mais adoption
+    nationale impossible sans cela ;
+• Tests unitaires/fonctionnels = non négociables :
+  – Intégrés alors que non existants auparavant. 41,7 % AutoLisp / 41,2 % C# = base
+    solide pour toute évolution. 4 cahiers de tests fonctionnels conçus par brique.
+
+Apprentissages humains
+• Formation ≠ documentation :
+  – Expérience ludique et interactive > PDF technique descendant ;
+  – Kit clé en main > documents épars ;
+• Résistances organisationnelles = réalité :
+  – Interlocuteurs problématiques : friction majeure mais contournée ;
+  – Importance des sponsors + persévérance de l’équipe ;
+• Hétérogénéité PEI = richesse mais complexité :
+  – Pratiques locales différentes et capitalisation sur initiatives indispensable ;
+  – Uniformisation nationale = équilibre délicat mais puissant levier de confiance ;
+• Démarche design centrée utilisateur = différenciateur :
+  – Exploration, ateliers, co-conception, formations sur site, accompagnement, visites,
+    installations, résolutions des problèmes et tests = valeur reconnue
+    (« Le fait de venir nous voir, se déplacer, nous expliquer, nous former c'est une superbe
+    démarche. On aurait aimé avoir eu ça pour la GEP 2.0 », agent du PEI Bordeaux).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+B. SCHMIEUX (c’est aussi une équipe !)
+
+L’ÉQUIPE SCHMIEUX VOUS REMERCIE POUR VOTRE ATTENTION !
+
+---
+
+CODEX
+
+C. La solution à long terme du Programme DEX+
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+La solution à long terme
+
+S’appuyer sur l’innovation…
+
+Un nouvel outil axé sur la Conception Assistée par Ordinateur
+(CAO) plutôt que sur du simple dessin industriel (DAO),
+permettant une modification des schémas d’exécution facilitée :
+• Conception et simulation ;
+• Vérification de règles métiers ;
+• Homogénéisation des schémas ;
+• Génération des schémas de bornage, d’étiquettes, etc. ;
+• Importation des collections existantes.
+
+… pour faciliter la gestion des anciennes technologies de poste…
+
+CODEX est destiné aux technologies de postes électromécaniques,
+encore présentes en grand nombre sur le RFN y compris sur des axes et
+des nœuds stratégiques du réseau, nécessitant encore de nombreuses
+modifications : en premier lieu, PRS et PRCI.
+
+… et (re)donner du sens aux schémas, aux documents
+et au métier des DEX.
+
+Évolutif, extensible, maîtrisé en interne, partant du besoin utilisateur et optimisé pour ce besoin !
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+La solution à long terme
+
+Accroître la valeur du patrimoine
+documentaire SNCF Réseau
+
+Avec cet outil, ses fonctionnalités et le workflow associé, l’objectif est
+aussi d'enrichir le patrimoine de SNCF Réseau.
+
+En effet, le DEX ne se limitera plus à de simples collections de
+documents papier « dormants », mais comprendra également un
+modèle des postes exploitable pour divers types d'applications.
+
+Un changement de paradigme
+
+Dans CODEX, dessiner un schéma entraîne la construction
+simultanée d'un modèle de circuit et, par conséquent, du poste.
+
+Cela offre alors la possibilité de :
+• Simuler les circuits et le poste dans leur intégralité ;
+• Introduire une vérification de cohérence au niveau de la
+  collection, suivie d'une validation des règles métier ;
+• Générer automatiquement certains schémas
+  ou parties de schémas.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+L’équipe projet
+
+Chef de projet CODEX : Sylvain B.  
+
+INGÉNIERIE ET CONCEPTION
+• Ingénieur conception : Antoine S.
+• Ingénieur conception : Antoine T.
+• Ingénieure IA & algo : Pauline V.
+• Ingénieure : Yinghua M.
+• Ingénieur : Clément M.
+• Ingénieur : Omar A.
+• Ingénieur : Aymane D.
+
+DESIGN, RECHERCHE & ACCOMPAGNEMENT
+• Lead designer : Joseph D. [ext]
+• Designer & researcher : Anna A.
+• Conduite du changement : Manon E. [ext]
+• Designer : Solenn L.
+• Software design & development : Wissal B.
+
+DÉVELOPPEMENT
+• Développeur fullstack : Nicolas C.
+• Ingénieur développement logiciel : Mathieu D.
+• Product owner : Laurent B. [ext]
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Analyser les solutions existantes pour construire CODEX
+
+Objectif du benchmark : identifier des scénarios viables pour le projet
+CODEX en évaluant leur réponse au besoin et les risques encourus.
+
+Méthode de recueil de données (plusieurs mois)
+• Recherche exploratoire sur la gestion des installations électriques de sécurité
+  à longue durée (domaine ferroviaire et hors ferroviaire) ;
+• Échanges avec industriels : autres gestionnaires d'infrastructure (SBB, DB,
+  RFI, Hitachi, Alstom), industriels partageant problématiques similaires (Naval
+  Group, EDF, Direction du Matériel, etc.) ;
+• Échanges avec fournisseurs d'outils : fournisseurs adaptés aux fonctionnalités
+  CODEX (Dassault Systèmes, Zuken), évaluation reste à faire, etc.
+
+110+ pages rédigées et documentées.  
+3 scénarios élaborés et évalués.
+
+Critères d'évaluation des scénarios
+• Réponse du scénario aux besoins métiers et
+  utilisateurs ;
+• Niveau d'effort à fournir pour déployer la
+  solution ;
+• Niveau de risque attaché au scénario.
+
+Conclusion et décision  
+Aucun outil existant sur le marché ne répond parfaitement au besoin.
+
+Scénarios étudiés :
+• Scénario basé sur les outils actuels (AutoCAD/BricsCAD) :
+  – Le moins cher, mais offre le moins de valeur ajoutée en termes 
+    d'amélioration métier (qualité, productivité et sécurité) ;
+• Scénario basé sur les outils de Dassault Systèmes :
+  – Coût d'investissement très important et incertain (licences + développements),
+    rend captif (formats/outils propriétaires externes à l’entreprise) et ne répond pas
+    à 100 % du besoin. Répond relativement bien au besoin de transformation vers
+    l’approche CAO ;
+• Scénario basé sur un développement sur-mesure :
+  – Coût d'utilisation faible, coût d'investissement important (développements requis)
+    et nécessité de bien maîtriser les risques projet.
+  – Réponse la plus adaptée aux besoins métiers et entreprise, extensible au
+    niveau de la filière et conservant à SNCF Réseau le rôle de leader sur l'animation
+    de celle-ci.
+
+Le scénario 3 (développement sur-mesure) a été retenu pour CODEX.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+POC AIM : algorithmes d'import et reconnaissance intelligente
+
+Objectif du POC : construire un processus pour importer les collections
+existantes, au format raster ou AutoCAD, dans l’outil CODEX. Le processus
+s’appuiera sur un module d’importation avec supervision humaine : l’agent
+interagira avec l’algorithme pour assurer la qualité finale de l’importation.
+
+Méthodologie :
+• Travail de R&D lancé en amont, avec pour objectif principal de lever
+  les incertitudes liées à l’aspect recherche ;
+• Périmètre d’étude concentré d’abord sur les folios électriques de poste,
+  plus simples, avec extension progressive du périmètre ;
+• Inclusion dès le début de folios de qualité diverse (raster dégradés)
+  pour construire des algorithmes robustes.
+
+Difficultés rencontrées :
+• Comprendre la sémantique des schémas, avec des représentations graphiques
+  et des éléments sémantiques évoluant au fil des années ;
+• Qualité parfois très dégradée des folios (bruits, effacements…) ;
+• Sémantique très riche, avec interprétations contextuelles et nombreux cas
+  particuliers.
+
+Informations à extraire d’un schéma « simple » :
+Nous souhaitons être capables de redessiner le schéma, et donc récupérer
+l’ensemble des informations :
+• Les composants électriques avec leurs propriétés (y compris les informations
+  textuelles) ;
+• Les fils électriques ;
+• Les groupes de relais (lien entre les contacts, et leur bobine).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+POC AIM : algorithmes d'import et reconnaissance intelligente
+
+Le processus d’importation est composé de deux phases :
+
+1. Phase de détection, composée de trois briques indépendantes :
+   • Brique détection des symboles ;
+   • Brique détection des segments ;
+   • Brique détection et reconnaissance du texte.
+
+2. Phase de sémantique, composée de briques itératives, qui
+   permettent de relier les éléments détectés entre eux afin de leur
+   donner du sens.
+
+Briques :
+• Détection de symboles ;
+• Détection de segments ;
+• Reconnaissance des fils électriques et des traits d’axe ;
+• Détection et reconnaissance du texte ;
+• Association symbole électrique / texte ;
+• Exportation des résultats et vérification.
+
+Description simplifiée du processus d'importation des schémas électriques simples.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+POC AIM : algorithmes d'import et reconnaissance intelligente
+
+Brique de détection des symboles :
+• Technologie : modèle de Deep Learning fine-tuné ;
+• Résultats : excellents.
+
+Brique de détection du texte :
+• Technologie : deux modèles de Deep Learning, dont l’un est fine-tuné ;
+• Résultats : encourageants, mais nécessitent des développements
+  supplémentaires.
+
+Brique de détection des segments :
+• Technologie : algorithme de traitement d’image « fait maison » ;
+• Résultats : très encourageants, mais nécessitent aussi des
+  développements supplémentaires.
+
+Exemples de résultats (symboles, texte, segments).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+POC AIM : algorithmes d'import et reconnaissance intelligente
+
+Reconstruction de la sémantique :
+
+La reconstruction de la sémantique est un processus itératif visant à donner du sens aux
+éléments graphiques et textuels des folios électriques.
+
+• Reconnaissance des fils électriques et des traits d’axe, en liant les
+  segments entre eux et avec les symboles électriques détectés ;
+• Puis rattachement des textes aux symboles électriques.
+
+Principaux défis :
+• Gestion des erreurs : correction des imperfections
+  issues de la phase de détection ;
+• Complexité liée au nombre d’éléments (jusqu’à des
+  milliers de segments, des centaines de zones de
+  texte et des dizaines de symboles) ;
+• Distinctions graphiques subtiles (ligne pointillée vs
+  ligne continue, etc.).
+
+Technologie : assemblage d’algorithmes sur-mesure
+adaptés aux spécificités des folios électriques.
+
+Résultats :
+• Reconnaissance des fils électriques et des traits
+  d’axe : excellente ;
+• Gestion du texte : encourageante, mais nécessite
+  une meilleure gestion des erreurs en détection.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+POC AIM : algorithmes d'import et reconnaissance intelligente
+
+Retours d’expérience
+
+• La composante métier joue un rôle essentiel, pour définir un périmètre pertinent
+  en distinguant les éléments essentiels des cas particuliers, et construire le modèle
+  de données cible. Trouver la bonne méthodologie de dialogue avec les experts
+  métier est un travail au long cours.
+• Sur le plan technique :
+  – Estimation des délais difficile, chaque brique ayant une complexité propre
+    (ex. détection de segments plus longue qu’attendu) ;
+  – Nécessité de trouver un équilibre qualité/efficacité pour avancer sur le projet
+    tout en gardant une qualité suffisante ;
+  – Diversité des compétences requises : chaque brique demande une expertise
+    technique spécifique et une exploration de la littérature scientifique dédiée,
+    en plus des connaissances métier.
+  – Définition des métriques et annotations des données : aligner les métriques
+    avec la stratégie d’annotation et la conception des briques exige une vision
+    globale. L’annotation est chronophage et doit être strictement cadrée.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Exploration des besoins : campagne d’ateliers CODEX
+
+Objectif : en s'appuyant sur les données de l'immersion 2023,
+la démarche de recherche utilisateur continue (investigations,
+démonstrations, visites, formations, etc.) et les 8 briques thématiques,
+travailler avec les agents pour construire collaborativement des
+cas d'usage exprimant leurs besoins et constituer un socle solide
+pour rédiger la spécification générale de CODEX.
+
+Les briques thématiques
+• Conception électrique & modèle ;
+• Automatisation documentaire ;
+• Contrôle des règles métiers ;
+• Vérification et contrôle extérieur ;
+• Simulation ;
+• Import des collections existantes
+  et mise en qualité des schémas ;
+• Interopérabilité ;
+• Flux de travail & collaboration.
+
+Chiffres clés :
+• 27 participants actifs de 13 PEI
+• 10 ateliers d’idéation et co-construction
+• 7 cycles de préparation et traitement MOE-MOA
+• 4,3/5 de satisfaction des participants (ROTI)
+• 180+ cas d’usage et 35+ scénarios d’usage bruts construits
+• 300+ pages rédigées de restitution d’atelier
+
+Ateliers construits puis réalisés sur Klaxoon  
+Base de données « Matériau brut » dédiée au traitement des cas d’usage.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Processus industriel et traçabilité : du besoin utilisateur
+à la spécification générale
+
+Extraction des données d’atelier  
+• Expression du besoin en atelier d’idéation (Klaxoon)  
+
+Analyse et traitement  
+• Analyse du cas d’usage brut dans un tableau « Matériau brut & traitement » (Excel)  
+• Reformulation du cas d’usage, création d’un identifiant,
+  évaluation de l’applicabilité à CODEX par MOE/MOA  
+
+Socle de travail  
+• Spécification_Générale_CODEX_v0 · 4.9.2 « Contrôle de la cohérence des modèles »  
+• EXIGENCE + identifiant et lien traçable vers le cas d’usage
+
+Note : cette traçabilité s’étendra jusqu’aux User Stories du backlog
+CODEX, de la conception jusqu'au développement.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Du besoin à l'exigence : la Spécification Générale CODEX
+
+La spécification générale CODEX résulte d'un travail de conception
+approfondi, prenant pour entrants :
+• les conclusions du benchmark,
+• les cas d'usage issus des ateliers,
+• et l'ensemble des activités de recherche utilisateur.
+
+Elle constitue :
+• le langage commun entre MOA et MOE ;
+• le pont entre besoins utilisateurs et exigences à satisfaire ;
+• le document de référence garantissant alignement
+  et traçabilité.
+
+400+ éléments de spécification.
+
+Chronologie :
+• Juin 2025 – Fin des ateliers S1, démarrage de la rédaction
+• Septembre 2025 – Livraison v0
+• Octobre 2025 – Échanges MOE-MOA, priorisation vMVP
+• Novembre 2025 – Livraison vMVP initialement prévue (projet arrêté)
+
+Contenu de la V0 :
+• Chapitre introductif à CODEX ;
+• Définitions et glossaire métier ;
+• Nomenclature des exigences ;
+• Hypothèses et points ouverts ;
+• Traçabilité complète des besoins utilisateurs vers les exigences techniques
+  (avec 70 % des exigences issues des cas d’usages développés par les utilisateurs) ;
+• Grandes briques : modèles de données, interfaces et interopérabilité, export/import,
+  simulation, flux de travail et versionnage, etc.
+
+Répartition des éléments de spécification générale V0 :
+• Interfaces
+• Hypothèses
+• Points ouverts
+• Exigences
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Un outil de production filière des DEX en continuité numérique
+
+Efficacité opérationnelle – Sécurité – Attractivité du métier
+
+FORMATION, AUTO-FORMATION
+ET CONDUITE DU CHANGEMENT
+• Faciliter la montée en compétence des agents
+
+GÉNÉRATION DE SCHÉMAS DÉRIVÉS
+• Gains de productivité, de fiabilité et de sécurité
+
+IMPORT DE SCHÉMAS EXISTANTS PAR IA
+• Faciliter la reprise de l’existant
+
+WORKFLOW & VERSIONNAGE
+• Donner un cadre commun à la filière et simplifier les échanges
+
+SIMULATION & AUTO-CONTROLE
+• Augmenter la fiabilité des études
+
+CONTINUITÉ NUMÉRIQUE
+• Simplifier le partage d’information entre les
+  différents niveaux d’études
+• Y compris avec DEXCARTO
+
+SCHÉMAS & MODÈLES
+• Uniformiser et simplifier le geste métier
+• Fournir le prérequis à la réalisation
+  des autres briques
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Quelques principes retenus pour la conception de CODEX
+
+Gestion par graphe des versions
+• CODEX gère un graphe répertoriant les indices
+  des collections pour l’installation et leur statut,
+  avec une version de modèle par indice ;
+• Chaque indice contient un nombre limité
+  de folios, tandis que le modèle d'installation
+  agrège l'ensemble de l'installation décrite dans
+  les indices amont, enrichi par l'indice courant ;
+• Cette gestion par graphe de versions permet
+  de prendre en charge les études simultanées.
+
+Trois niveaux de modélisation
+• Modèle d’installation : description de l’installation électrique (matériel,
+  localisation, affectations, etc.) ;
+• Modèle de folio : représentation
+  graphique standardisée de tous les éléments
+  composant un folio ;
+• Modèle de collection : ordonne les folios
+  et leur associe les informations communes.
+
+Cohérence intrinsèque
+• L’édition dans CODEX est construite pour
+  conserver la cohérence de la collection vis-à-vis
+  des installations électriques ;
+• À la collection est associé un modèle.
+  Toute édition d’un folio vient mettre à jour
+  le modèle ; les modifications sont répercutées
+  sur les autres folios impactés ;
+• Il est impossible de maintenir un état
+  incohérent au sein de la collection.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Des fonctions qui changent le métier : la cohérence garantie
+
+Propager automatiquement les impacts d'une modification
+• L'édition d'un folio déclenche une mise à jour du modèle, dont les modifications
+  sont répercutées en cascade sur l'ensemble des folios concernés :
+  – modifications de l'installation électrique (ajout de matériel, changement
+    de propriétés, nouvelle affectation…) ;
+  – l'ensemble des schémas (électriques, châssis, affectations) ;
+  – les cartouches et pages de garde, avec automatisation des montées d'indice
+    jusqu'au répertoire de bordereaux.
+
+Exemple : étapes de la modification du nom d'un relais
+1. L'utilisateur sélectionne dans un folio une occurrence du relais pour
+   en modifier les propriétés ;
+2. Il choisit d’en changer le nom ;
+3. L’outil indique l'ensemble des folios impactés (contacts, schémas de châssis,
+   étiquettes) ;
+4. L'utilisateur valide la modification après contrôle ;
+5. La modification (marquée « Altéré ») est propagée :
+   – tous les schémas où le nom apparaît ;
+   – les cartouches ;
+   – les pages de garde ;
+6. L'utilisateur peut passer en revue et valider les modifications ; une fois
+   validées, le marquage « Altéré » disparaît.
+
+Proposer une validation systématique par l'agent
+• Un marquage « Altéré » garantit la revue des répercussions automatiques.
+
+Informer l'utilisateur des impacts
+• Avant toute modification, l’agent est informé des folios impactés, peut les consulter
+  et dispose d’un historique.
+
+Effets :
+• Réduction des reports de modification – recentrage du métier sur les études et la
+  signalisation – amélioration de l'attractivité métier.
+• Réduction des erreurs d’étude – collections plus saines, sécurité renforcée, moins de
+  reprises d’étude.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Un outil qui assure la continuité du métier
+
+Un outil de production des schémas électriques, de châssis,
+d'étiquettes :
+• CODEX est un outil pour la réalisation de DEX conforme à la nomenclature
+  et au processus en vigueur, avec une nouvelle interface et de nouvelles
+  bibliothèques construites en concertation avec les utilisateurs.
+• Exemples d'améliorations : aide à la saisie à partir d’éléments
+  existants, grilles types « intelligentes », recherche avancée, etc.
+
+Compatibilité avec l’environnement SNCF (GEP 2.0, FEDEX...)
+• CODEX s'intègre aux SI de production d'études de signalisation, en particulier la
+  GEP 2.0, avec échange bidirectionnel de documents.
+• La gestion de la réservation des indices reste dans la GEP.
+• Exemples d’améliorations envisagées :
+  – aide à la gestion des demandes de modification (renvois FEDEX, alertes) ;
+  – interface avec PELICAN ;
+  – gestion des listes de matériel.
+
+Laisser la maîtrise à l'utilisateur sur la manière de travailler
+• Lors de l’ajout d’un symbole sur un folio, l’agent peut :
+  – le laisser temporairement à l’état symbolique ;
+  – lui donner un nom préexistant pour le lier au modèle ;
+  – lui donner un nouveau nom pour créer un nouvel objet dans le modèle.
+• CODEX fournit une fonction pour détecter les symboles non rattachés ou marqués
+  « Altérés ».
+
+Minimiser la résistance au changement
+• Outil centré sur la réponse au besoin, améliorant l’expérience utilisateur tout en
+  conservant ses repères.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Des fonctions qui changent le métier : la simulation électrique
+
+• CODEX peut simuler des circuits dans des installations complètement ou
+  partiellement intégrées à l’outil (avec limites dans ce dernier cas).
+• La simulation repose sur des calculs électriques simplifiés, cycliques.
+• Cela permet une simulation fonctionnelle réaliste et une analyse
+  dysfonctionnelle de premier ordre (erreurs de câblage, courts-circuits, etc.).
+
+Nota :
+• On ne calcule pas exactement tensions et intensités ; elles sont approchées.
+• Impossibilité de détecter des problèmes très fins (chute de tension, composants
+  aux limites).
+
+Approche validée via le PoC « COCOSIM »  
+(cf. section dédiée à l’outil « COCOSIM »).
+
+Fonctionnement d’un cycle :
+1. Prendre en compte l’état des composants discrets (contacts…),
+   construire la matrice des équations (tensions, intensités) ;
+2. Résoudre les équations (tensions et intensités approchées
+   en tout point) ;
+3. Recalculer l’état des composants (ouverture/fermeture de
+   contacts, état des lampes, etc.).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Des fonctions qui changent le métier : autres exemples
+
+A. Nouveaux modes de navigation dans les collections
+• Utilisation des liens logiques pour faciliter la navigation :
+  – ouvrir un folio depuis la page de garde ;
+  – ouvrir un folio depuis une autre occurrence du même objet (ex. bobine
+    d’un relais depuis un contact) ;
+  – utiliser les renvois dans les schémas pour ouvrir un folio.
+
+B. Gestion automatisée des pages de garde
+• Simplification de la création et mise à jour des pages de garde
+  par remplissage automatique des infos projet et report automatique
+  des changements d’indice.
+
+C. Recherche multicritère dans les collections
+• Recherche d’éléments dans toute la collection :
+  – folios où apparaît un élément, un nom, un type d'objet… ;
+  – documents à partir de leur description sans passer par les pages de garde.
+
+D. Aides à la lecture et options d'affichage
+• Mise en évidence d’éléments ciblés (ex. surligner tous les éléments
+  d’un même circuit).
+
+E. Contrôle des règles métier
+• Contrôle de cohérence électrique des schémas et respect des
+  référentiels.
+• Contrôles basés sur les retours utilisateurs :
+  – disponibilité des affectations ;
+  – règles d’implantation dans les châssis ;
+  – cohérence des alimentations, etc.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Des chantiers et des points ouverts
+
+La spécification générale V0 (octobre 2025) laisse des points à traiter
+pour les futures versions :
+
+Le processus d'import des collections
+• La plus-value de CODEX repose sur la modélisation
+  et donc l'import des collections d’exécution
+  (calque, raster, vectoriel…).
+• CODEX intégrera un processus d’importation
+  et des fonctions d’aide à l’importation
+  s’appuyant sur reconnaissance d’image et de texte.
+• L’analyse d’image et les algorithmes posent la question
+  de la fiabilité de l’import (reconnaissance non
+  parfaitement garantie).
+• Le processus humain/machine doit être conçu pour
+  que l’algorithme fasse l’essentiel tout en permettant
+  un contrôle humain.
+
+La gestion des schémas développés
+• CODEX vise postes à câblage libre (PRS, PRSI) et postes à platine (PRG, PRCI).
+• La V0 se concentre d’abord sur les technologies à câblage libre.
+• Un recueil de besoins spécifique aux technologies à platines reste à mener, pour
+  spécifier :
+  – la modélisation des grilles types ;
+  – l'import des schémas de principes et la modélisation des platines ;
+  – l'interface et les règles de représentation et d'utilisation des schémas
+    développés.
+
+L'utilisation de l'outil pour les activités de vérification
+• CODEX vise aussi l’amélioration de la vérification.
+• De nombreux besoins remontés par la recherche utilisateur.
+• Pistes :
+  – interface dédiée au pointage et à la mise à plat des annotations ;
+  – extraction de données pour élaborer le compte rendu de vérification.
+• Le périmètre doit être précisé en concertation avec la MOA.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Feuille de route CODEX globale
+
+Avant CODEX :
+• EPURE/SCHME
+• SCHMIEUX
+
+CODEX dans le temps (hypothèse démarrage dév. 01/11/2025) :
+• 2024–2025 : Conception CODEX
+• Octobre 2025 : Livraison de la spécification générale à la MOA
+• Mi-2026 : CODEX v0 – validation des concepts d’interface et de saisie,
+  étude pilote PRS (saisie & bornage réalisés avec CODEX, import via
+  prototype non industrialisé)
+• Mi-2027 : CODEX v1 – études PRS(I) réalisables dans CODEX (import &
+  simulation inclus)
+• 2028 : CODEX déployé pour premières études grandeur réelle
+• 2029 : CODEX v2 – étude pilote PRCI, déploiement progressif PRS(I)
+• 2030–2032 : CODEX v3 – déploiement national, extension à PRCI,
+  autres technos (PRG…), modèles de poste (jumeaux numériques)
+  utilisables par d’autres métiers (maintenance, formation, etc.).
+
+Des décalages sont à prévoir selon décisions financières.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Processus projeté pour la suite
+
+De la spécification générale à la conception détaillée
+
+Le hub des sujets CODEX
+• Hub central listant les sujets (« Édition des bordereaux », « Navigation inter-folios », etc.)
+  formulés à partir des exigences et cas d’usage.
+• Chaque sujet est discuté, trié, priorisé avec la MOA.
+• Une fois validé, il entre dans le processus de conception via le canevas CODEX.
+• Hub évolutif (nouveaux sujets, fusion/scission de sujets, etc.).
+
+Canevas CODEX
+• Outil structurant chaque sujet en 5 sections :
+  1) Carte de visite (contexte, résultats attendus, hypothèses, risques, métriques) ;
+  2) Scénarios ;
+  3) Parcours utilisateurs ;
+  4) Parcours produit (spécifications opérationnelles) ;
+  5) Registre des points à sécuriser.
+• Garantit traçabilité complète, cohérence d’ensemble et priorisation itérative.
+• Avantages :
+  – alignement stratégique ;
+  – traçabilité de bout en bout ;
+  – gain de temps en atelier (proto-travail injecté) ;
+  – sécurisation des angles morts ;
+  – pilotage par la donnée.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Processus projeté pour la suite
+
+De la spécification générale à la conception détaillée : processus de travail
+
+• SPÉCIFICATION GÉNÉRALE CODEX
+  – Doc de référence MOA/MOE ;
+  – Grille de lecture MOE/MOA (objectif MOA, regroupement d’exigences par périmètre fonctionnel).
+
+• HUB SUJETS CODEX
+  – Regroupe des sujets cohérents issus de la spécification ;
+  – Sert de base à la priorisation et à la synchronisation MOE/MOA.
+
+• CANEVAS CODEX
+  – Outil vivant MOE de la conception détaillée ;
+  – Alimente les ateliers utilisateurs, la conception design, les sprints de dev
+    et les tests utilisateurs.
+
+Cycles envisagés (S2 2025–2026) :
+• Cycle classique (Tiroir 1) – 6 semaines :
+  – Priorisation du sujet ;
+  – Pré-atelier, atelier utilisateur, post-atelier ;
+  – Sprint design (conception + tests) ;
+  – Mise à jour de la spécification et du backlog ;
+  – 2 sprints de développement en parallèle.
+• Cycle de recherche (Tiroir 2) – 6 semaines :
+  – Investigation de briques thématiques ;
+  – Ateliers, visites, démonstrations ;
+  – Mise à jour documentaire, backlog, sujets.
+• Cycle d’activités de fond (Tiroir 3) – 3 ou 6 semaines :
+  – Recherche ciblée, amélioration des données,
+    traitement des sujets en attente ;
+  – Tests utilisateurs, tâches de fond.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Processus projeté pour la suite – articulation détaillée (exemple de cycle classique)
+
+CYCLE CLASSIQUE (Tiroir 1)
+
+Pré-atelier
+• Choix du ou des sujets ;
+• Remplissage du canevas (carte de visite, scénarios, premières questions) ;
+• Réunion équipe MOE pour cadrage.
+
+Atelier utilisateur
+• Atelier #03.1 :
+  – co-construction autour des parcours utilisateurs ;
+  – tests flash (2–3 users) avec rapport et premières métriques.
+
+Post-atelier
+• Restitution et mise à jour du canevas ;
+• Raffinage des sujets ;
+• Mise à jour du backlog produit ;
+• Préparation du sprint design.
+
+Sprint design (2 semaines)
+• Conception design (prototypes, flux) ;
+• Investigations complémentaires (visites, démos, tests) ;
+• Mise à jour continue du canevas et de la spécification.
+
+En parallèle :
+• Sprints de développement (Sprint 0, 1, 2, etc.) ;
+• Suivi et mise à jour des métriques ;
+• Documentation de la démarche.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+L’engagement des agents, un capital inestimable
+
+DISCOVERY CODEX
+• 2,5 années d’exploration et de
+  recherche ;
+• 50+ agents sollicités et embarqués ;
+• 15+ ateliers d’idéation et de
+  co-construction ;
+• 15+ visites en PEI et sur le terrain ;
+• 10+ sessions de démonstration ;
+• 1 kick-off / démos / ateliers de lancement
+  national ;
+• 20+ entreprises (inter)nationales
+  rencontrées (benchmark) ;
+• 180+ cas d’usage co-construits ;
+• 35+ scénarios utilisateurs ;
+• 400+ éléments de spécifications
+  et exigences.
+
+DE NOMBREUSES ATTENTES
+• Simplification et amélioration du geste métier :
+  – navigation plus fluide inter-folios, affectation automatique des contacts,
+    génération des bordereaux, etc. ;
+• Sécurisation des études :
+  – simulation des circuits, vérification des règles métier, détection des incohérences, etc. ;
+• Gain de temps & fiabilité :
+  – répercussion automatique des modifications, génération de schémas dérivés,
+    import des collections existantes, etc. ;
+• Formation & montée en compétence ;
+• Et bien d’autres…
+
+LES GAINS PROJETÉS POUR LE MÉTIER
+(estimations sur 300 agents, horizon 10 ans)
+• Gains de productivité (productivité seule, sur technologies PRS/PRSI
+  et PRCI) : gain de 15 %, soit 37 500 h économisées/an, soit 125 h/an/agent,
+  soit 3,5 à 7 M€/an ;
+• Gains de sécurité (basés sur 1000 FA/an) : ~0,25 M€/an ;
+• Seuil de rentabilité (1 % de productivité = 0,35 M€/an) :
+  – Pessimiste (10 %) = 2033 ;
+  – Réaliste (15 %) = 2032 ;
+  – Optimiste (20 %) = 2031 ;
+• Gains en attractivité métier, continuité numérique, fin de la dette
+  technique, meilleure connaissance du patrimoine ferroviaire, etc.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Contraintes, résistances et difficultés : ce qui a compliqué le projet 1/2
+
+Challenges techniques
+
+Nombreux défis de l’analyse d’image et de l’import de schémas :
+• Reconnaissance des symboles conforme aux règles métiers ;
+• Identification et extraction du texte avec plusieurs modèles et métriques ;
+• Détection des fils et des traits d’axe ;
+• Construction de la sémantique (objets, liens relais/contacts,
+  extraction de données de châssis).
+
+Challenge du POC COCOSIM
+• Bâtir un simulateur de circuits de type PRS pour aider les agents d’études
+  et garantir cohérence et respect des règles métiers.
+
+Complexité métier et modélisation
+• Difficulté à comprendre la profondeur du métier et des techniques DEX ;
+• Questions de périmètre du modèle de données :
+  – ce qui est intégré au modèle ;
+  – gestion des éléments hors modèle.
+• Intégration des différentes technologies d'installation (postes à câblage libre,
+  postes à platine, etc.).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Contraintes, résistances et difficultés : ce qui a compliqué le projet 2/2
+
+Obstacles transverses
+
+De nombreuses différences entre les PEI
+• Disparité des procédés et pratiques à investiguer, documenter et intégrer
+  dans la réflexion puis la construction.
+
+Dépendances et complexité SI
+• Nombreux interfaçages critiques pour assurer la continuité numérique :
+  DEXCARTO, GEP 2.0, FEDEX, PELICAN, etc. ;
+• Dette technique massive : existant vétuste, non conforme aux standards
+  produits actuels ;
+• Accès complexes à plusieurs outils essentiels.
+
+Trajectoire de financement instable
+• Impossibilité d'obtenir un budget pluriannuel, entraînant plusieurs décalages
+  du démarrage de CODEX ;
+• Planning adapté, globalement conforme aux objectifs malgré tout.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Les accomplissements, les convictions et la fierté malgré tout 1/2
+
+Des accomplissements utiles et de qualité
+
+Le benchmark, nécessaire pour décider
+• Construction de trois scénarios techniquement différents ;
+• Choix d’un outil sur-mesure, seule solution répondant au besoin utilisateur
+  et préservant le rôle de leader de SNCF Réseau.
+
+POC import de schémas
+• Développement de modules de détection de symboles, texte, segments ;
+• Développement d’un module de reconstruction de la sémantique ;
+• Construction d’un processus d’import pour schémas simples, intégrant
+  les risques d’erreur.
+
+POC Simulation « COCOSIM »
+• Conception d’un simulateur de circuits PRS, permettant une simulation
+  étape par étape de circuits définis par l’utilisateur.
+
+Spécification générale CODEX
+• Rédaction d’une spécification fondée sur plusieurs mois d’exploration,
+  visant alignement MOA/MOE et traçabilité du besoin vers l’exigence.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C. CODEX
+
+Les accomplissements, les convictions et la fierté malgré tout 2/2
+
+Les convictions qui nous ont guidés
+
+La cohérence est tout
+• Cohérence identifiée dès le départ comme socle de CODEX :
+  – cohérence du modèle de données au niveau collection, installation, etc.
+  – cohérence du contenu des folios dans le temps.
+
+La recherche utilisateur pour explorer toujours plus en profondeur
+• 180+ cas d'usage ont révélé de nouveaux besoins, frictions et attentes
+  ainsi qu’une forte disparité de procédés entre PEI, nécessitant une
+  investigation approfondie.
+
+Une vision claire
+• CODEX est un pari, mais un pari éclairé :
+  – fondé sur plusieurs années de travail,
+    une démarche et un processus industriel centrés utilisateur,
+    une vision technique.
+• Roadmap itérative avec, début 2028, un MVP pour une étude pilote PRS,
+  puis des incréments fonctionnels réguliers apportant une forte valeur.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Vision de la simulation dans CODEX
+• La simulation électrique permet de tester un circuit
+  sans le construire réellement.
+• De nombreux simulateurs existent, avec des licences et coûts variés.
+• Spécificités de représentation des schémas SNCF rendent la plupart des
+  logiciels du marché peu praticables côté UI.
+• La performance sur études de signalisation à relais doit être évaluée
+  expérimentalement.
+
+Le démonstrateur COCOSIM
+• Se base sur la représentation SNCF des schémas de principe en signalisation à relais ;
+• Permet d'évaluer la pertinence d'un moteur de simulation « fait maison » ;
+• Permet d'expérimenter une UI moderne, proche du design visé pour CODEX.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Homepage
+• Sélectionner un schéma existant ;
+• Créer un nouveau schéma ;
+• Ouvrir un schéma existant ;
+• Gérer ses schémas récents et favoris ;
+• Basculer thème clair/sombre ;
+• Choisir une langue (FR/EN).
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Mode Visualisation simple
+• Représentation des circuits au format schéma de principes ;
+• Interface pour interaction en lecture seule ;
+• Fonctions standard : zoom, glisser-déposer, etc.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Mode Édition des circuits
+• Création et modification graphique de circuits ;
+• Librairie standard de composants électriques aux standards SNCF ;
+• Composants configurables (résistance de lampe, fréquence d’alimentation pulsée, etc.) ;
+• Fonctions du mode visualisation disponibles également en édition.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Mode Simulation
+• Simulation du fonctionnement du circuit ;
+• Barre de commande : démarrage, pause, pas à pas, arrêt ;
+• Action manuelle de composants pendant la simulation ;
+• Effets répercutés visuellement (relais, contacts, lampes, etc.) ;
+• Breakpoints pour pause en cas d’évènement ;
+• Possibilité de rejouer et sauvegarder le déroulement d’une simulation.
+
+---
+
+02. LES PROJETS DU PROGRAMME  
+C’. COCOSIM
+
+Équipe COCOSIM : augmenter la fiabilité des études par la simulation
+
+Architecture et format
+
+Backend
+• Gestion des utilisateurs ;
+• Librairie standard de composants ;
+• Cœur de la simulation.
+
+Frontend
+• Chargement et sauvegarde des circuits ;
+• Édition des circuits ;
+• Communication avec le backend (API REST) pour la simulation.
+
+Format d’échange et de sauvegarde : JSON
+```json
+{
+  "environment": ...,
+  "components": { "types": ..., "instances": ..., "simulations": ... },
+  "wires": { "types": ..., "instances": ..., "simulations": ... },
+  "filters": { "types": ..., "instances": ... }
+}
+LES PROJETS DU PROGRAMME
+C. CODEX (c’est aussi une équipe !)
+L’ÉQUIPE CODEX VOUS REMERCIE POUR VOTRE ATTENTION !
+
+GOUVERNANCE ET SUIVI
+
+D. Des instances de suivi des projets pour les gouverner tous
+
+LES PROJETS DU PROGRAMME
+D. Gouvernance et suivi
+Les instances dédiées aux projets du Programme DEX+
+
+L’hebdo DEX+ • Chaque semaine, l'équipe au complet se réunit pour partager ses avancées et besoins, échanger sur un point sécurité, organiser des démonstrations et parfois même des quiz !
+
+Comité Technique (CoTech) • Bimensuel, rassemble les acteurs MOE et MOA pour se concentrer sur les problématiques et les aspects techniques du programme.
+
+Comité de Pilotage (CoPil) • Mensuel, réunit chefs de projet MOE, la MOA et certains sponsors pour les décisions stratégiques (ou non).
+
+LES PROJETS DU PROGRAMME
+D. Gouvernance et suivi
+Le tableau de bord de suivi des performances des projets DEX+ MOE
+
+ENSEIGNEMENTS ET HÉRITAGE
+
+03 • Forces et résilience ; • Enseignements transversaux ; • Héritage ;
+
+ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience
+La collaboration comme pilier du programme : le trio MOA-Métier-MOE
+
+Le pacte de confiance • La force de DEX+ repose sur ce trio vertueux : – engagement de la MOA ; – expertise métier des agents ; – excellence opérationnelle de la MOE ; = programme ancré dans le réel et exécuté avec rigueur.
+
+MOA PILOTAGE • DE IDF, DGNUM, DTII SF
+
+MOE RÉALISATION • eSNCF Solutions, DGNUM
+
+EXPERTS MÉTIERS DEX • Agents et responsables des PEI nationaux
+
+Un engagement métier sans précédent : • 70+ participants engagés au niveau national • 695+ h d’ateliers de co-construction • 62 % de taux de participation en atelier • 13+ tests utilisateurs
+
+ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience
+L’équipe DEX+
+
+Structuration • ~20 personnes, 3 projets, 5 pôles d’expertises, 1 vision ; • Équipes recrutées et constituées APRÈS l'immersion et la structuration du premier backlog = recrutement au bon moment, sur des besoins identifiés ; • Pôles complémentaires pour bâtir de véritables produits.
+
+Montée en compétence • Transverse : montée en compétence sur le métier de la signalisation ferroviaire ; • SCHMIEUX : plusieurs mois de montée en compétence AutoLisp/C#, audit technique, collaboration robuste design-dev-PO, tests unitaires, etc. ; • CODEX : développement d’algorithmes segments IA (pas d'algorithmes existants), benchmark industriels/fournisseurs, démarche d’exploration (discovery), UX strategy, etc. ; • DEXCARTO : architecture urbanisée, connexion à de multiples sources de données, etc.
+
+ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience
+DEX+ malmené mais debout : les obstacles surmontés
+
+Dette technique • SCHMIEUX : code legacy SCHME/EPURE vieux de 15+ ans, montée en compétence AutoLisp/C#, double développement AutoCAD/BricsCAD, dépendance à la roadmap DMOE POP, problèmes GTX RASTER ; • CODEX : pas d'algorithmes existants pour analyse d’images et identification des segments sur schémas DEX (vectoriels ou « faits main » avec bruit, zones effacées, intersections), variété de qualité des collections.
+
+Complexités métier • SCHMIEUX : subtilités du métier à apprendre, comprendre puis améliorer dans de fortes contraintes techniques ; • DEXCARTO : accès à plusieurs gisements de données SI, nombreuses dépendances.
+
+Résistances organisationnelles • Interlocuteurs peu coopératifs, freinant voire bloquant le projet ; • Décalages imprévus de planning (ex. livraison SCHMIEUX V3 pour s’aligner sur DMOE POP, démarrage de la conception détaillée CODEX dépendant d’un financement irrégulier) ; • Hétérogénéité des pratiques entre PEI : richesse mais complexité pour une harmonisation nationale.
+
+Arbitrages stratégiques assumés • Maintenir la qualité plutôt que tenir les dates « coûte que coûte » quand c’était possible ; • Prioriser la valeur utilisateur sur l’exhaustivité fonctionnelle ; • Protéger l’équipe et la démarche malgré les pressions.
+
+ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience
+L’embarquement des utilisateurs métiers comme fer de lance
+
+Quand les contraintes techniques, budgétaires et organisationnelles se sont intensifiées, la voix des agents a participé à protéger le programme. Leur implication, leurs verbatims et leur satisfaction mesurée ont légitimé la poursuite à plusieurs reprises.
+
+L'honnêteté comme actif stratégique • DEX+ n'a jamais vendu de solution miracle. • Bugs, limitations, délais et complexités ont été documentés et partagés avec les agents. • Retours terrain (Dijon, Bordeaux, Rouen, Toulouse, Lyon, Tours, etc.) consolidés et intégrés en cycles courts.
+
+Cette transparence a transformé les agents en alliés. • L’honnêteté a pérennisé la confiance entre le métier et le programme. • Les agents sont devenus des défenseurs actifs du projet lors d’arbitrages difficiles.
+
+QUELQUES VERBATIMS • « Le fait de venir nous voir, se déplacer, nous expliquer, nous former c'est une superbe démarche. On aurait aimé avoir eu ça pour la GEP 2.0 », agents d’étude PEI Bordeaux ; • « Une petite révolution pour nos études », agent testeur DEXCARTO ; • « Dommage, vous avez trop bien bossé », agent post- livraison SCHMIEUX v2 ; • « Surpris et impressionnés » du travail réalisé en 4 mois, testeurs de plusieurs PEI.
+
+ENSEIGNEMENTS ET HÉRITAGE
+B. Enseignements transversaux
+La démarche industrielle centrée utilisateur comme accélérateur et gage de durabilité
+
+EXPLORER ET COMPRENDRE – immersion avant tout • 1 designer, 4 mois de recherche terrain ; • Données et chiffres impactants, 10 thématiques de besoins identifiés ; • Ateliers en PEI et réflexions stratégiques en parallèle ; • 3 projets construits sur ce socle.
+À retenir : • Double socle : immersion terrain empirique + réflexion stratégique ; • Indispensables et complémentaires.
+
+CONSTRUIRE – co-construction avec les agents • 70+ participants embarqués dans des ateliers thématiques d'idéation et co-construction sur-mesure ; • Prototypage, développement, tests avant industrialisation.
+À retenir : • Embarquer les utilisateurs dans la conception favorise massivement l’adoption (« C’est une superbe démarche. On aurait aimé ça pour GEP 2.0 »).
+
+DÉLIVRER ET ACCOMPAGNER – évaluation continue • Tests utilisateurs réguliers (Dijon, Bordeaux, Rouen, Toulouse, etc.) ; • Suivi de métriques, accompagnement sur installations, webinaires de déploiement, amélioration continue.
+À retenir : • Livrer ≠ finir. • L'accompagnement post-livraison conditionne le succès à long terme.
+
+Principe reproductible pour les projets de transformation numérique SNCF Réseau : • Demande du temps initial, réduit drastiquement les risques d’échec et de rejet utilisateur. • Cadre adaptable selon les contextes et contraintes.
+
+ENSEIGNEMENTS ET HÉRITAGE
+B. Enseignements transversaux
+Équipes projets : compétences indispensables
+
+Le noyau gagnant en produit : • Chef de projet / PO / PM • Design + recherche • Développement • Ingénierie (conception et métier)
+
+DEX+ montre qu’on ne peut plus séparer : • Design & recherche utilisateur (besoins, expériences de bout en bout) ; • Développement (implémentation dans les règles de l’art) ; • Ingénierie de conception (spécification, architecture fonctionnelle) ; • Ingénierie métier (conformité référentiels, règles, etc.).
+
+Exemples : • DEXCARTO : CdP + UX/UI + dev + agents métier = outil métier réussi ; • SCHMIEUX : cheffe de projet + design + recherche + dev + agents métier = refonte SCHME réussie ; • CODEX : CdP + design + recherche + ingénieurs métiers et conception = socle solide de pré-lancement de la conception détaillée.
+
+5 principes extraits de DEX+ applicables ailleurs • Recherche utilisateur obligatoire avant validation roadmap, conception, dev ; • Embarquement des utilisateurs dès le cadrage ; • Véritables équipes produit (CdP / Design / Recherche / Dev / Ingé / Data) ; • Gouvernance équilibrée (sponsorship fort + autonomie d’équipe) ; • Transparence sur obstacles, échecs, complexités.
+
+Ces principes ont fonctionné pour : • DEXCARTO : outil déployé dans 21 PEI, ~400 utilisateurs ; • SCHMIEUX : outil retravaillé, industrialisé, 200+ utilisateurs quotidiens ; • CODEX : recueil/exploration besoins métier au national et livraison des spécifications générales V1.
+
+ENSEIGNEMENTS ET HÉRITAGE
+A. Forces et résilience
+Les remerciements spéciaux
+
+La MOA :
+• Didier B.
+• Robin C.
+• Stéphane T.
+• Gaston S.
+• Lyana M.
+
+Les sponsors : • Robin C. • Dimitri M. • Bertrand H. • Benjamin V. • Denis G. • Bastien G. • Marina G. • Erwann S. • Stéphane T. • Vincent C. • Éric N. • Jean-Philippe R. • Nicolas R. • Florent M. • Jean-Michel W. (spéciale dédicace) • Flora S.
+
+Et : • Tous les agents participants aux ateliers • Tous les agents testeurs des solutions • Tous les responsables de PEI et agents qui ont accueilli l’équipe • Les interlocuteurs et interlocutrices de la D2D
+
+Les remerciements

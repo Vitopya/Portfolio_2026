@@ -1,0 +1,50 @@
+# Fichiers système Windows
+nul
+**/nul
+
+# Dossiers de build et cache
+code_repo/.next/
+code_repo/node_modules/
+code_repo/.pnp
+code_repo/.pnp.*
+code_repo/.yarn/*
+!code_repo/.yarn/patches
+!code_repo/.yarn/plugins
+!code_repo/.yarn/releases
+!code_repo/.yarn/versions
+
+# Fichiers de debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Fichiers d'environnement
+.env*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.cursor/
+.claude/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+C?Temp/
+
+# Assets temporaires (si nécessaire, ajuster selon vos besoins)
+# assets/
