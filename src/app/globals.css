@@ -1,26 +1,66 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ─── Fonts ──────────────────────────────────────────────────── */
+@font-face {
+  font-family: 'Amulya';
+  src: url('/fonts/Amulya-Variable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@font-face {
+  font-family: 'Synonym';
+  src: url('/fonts/Synonym-Variable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ─── Design Tokens ──────────────────────────────────────────── */
+@theme {
+  /* ── Principals ── */
+  --color-background:   #F9F4EF;  /* Main background */
+  --color-h-text:       #020826;  /* Headings & primary text */
+  --color-paragraph:    #716040;  /* Body / paragraph text */
+  --color-secondary:    #EADDCF;  /* Secondary bg, borders */
+  --color-button:       #8C7851;  /* Button background */
+  --color-btn-text:     #FFFFFE;  /* Button text */
+  --color-tertiary:     #F25042;  /* Red accent */
+  --color-grey-light:   #FAFAFA;
+  --color-grey-mid:     #E5E7EB;
+
+  /* ── Gradients ── */
+  --color-g-blue-start:   #D5E7FE;
+  --color-g-blue-end:     #C9E1FE;
+  --color-g-yellow-start: #FEE8CB;
+  --color-g-yellow-end:   #FFDFB8;
+
+  /* ── Strokes (also used as tag backgrounds) ── */
+  --color-s-blue:   #BEDBFF;
+  --color-s-pink:   #E9D4FF;
+  --color-s-green:  #A4F4CF;
+  --color-s-red:    #FDA5C1;
+  --color-s-yellow: #FFB86A;
+
+  /* ── Fonts ── */
+  --font-display: 'Amulya', serif;
+  --font-body:    'Synonym', sans-serif;
+}
+
+/* ─── Base ───────────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F9F4EF;
+  color: #020826;
+  font-family: 'Synonym', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
