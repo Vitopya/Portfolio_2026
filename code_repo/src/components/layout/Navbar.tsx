@@ -38,19 +38,19 @@ export function Navbar() {
           <nav className="hidden md:flex items-center gap-8">
             <Link
               href="/projects"
-              className="text-base text-[#020826] hover:text-[#8C7851] transition-colors"
+              className={`text-base hover:text-[#8C7851] transition-colors ${pathname === '/projects' ? 'font-semibold text-[#020826]' : 'font-normal text-[#020826]'}`}
               style={{ fontFamily: 'Synonym, sans-serif' }}
             >
               Projets
             </Link>
             <Link
               href="/about"
-              className="text-base text-[#020826] hover:text-[#8C7851] transition-colors"
+              className={`text-base hover:text-[#8C7851] transition-colors ${pathname === '/about' ? 'font-semibold text-[#020826]' : 'font-normal text-[#020826]'}`}
               style={{ fontFamily: 'Synonym, sans-serif' }}
             >
               À propos
             </Link>
-            <Button href="mailto:joseph.deffayet.pro@gmail.com" variant="primary" external>
+            <Button href="https://www.linkedin.com/in/joseph-deffayet/" variant="primary" external>
               Me contacter
             </Button>
           </nav>
@@ -76,8 +76,16 @@ export function Navbar() {
             transition={{ duration: 0.2, ease: 'easeInOut' }}
             className="md:hidden fixed inset-0 z-[60] bg-[#F9F4EF] flex flex-col"
           >
-            {/* Top row — close button mirrors burger position */}
-            <div className="h-20 flex items-center justify-end px-5 shrink-0">
+            {/* Top row — logo left, close button right */}
+            <div className="h-20 flex items-center justify-between px-5 shrink-0">
+              <Link
+                href="/"
+                onClick={() => setOpen(false)}
+                className="text-2xl font-bold text-[#716040] hover:text-[#020826] transition-colors"
+                style={{ fontFamily: 'Amulya, serif' }}
+              >
+                Joseph<span className="text-[#F25042]">.</span>Deffayet
+              </Link>
               <button
                 onClick={() => setOpen(false)}
                 aria-label="Fermer le menu"
@@ -97,7 +105,7 @@ export function Navbar() {
                 <Link
                   href="/projects"
                   onClick={() => setOpen(false)}
-                  className="text-2xl font-medium text-[#020826] hover:text-[#8C7851] transition-colors"
+                  className={`text-2xl hover:text-[#8C7851] transition-colors ${pathname === '/projects' ? 'font-semibold text-[#020826]' : 'font-medium text-[#020826]'}`}
                   style={{ fontFamily: 'Synonym, sans-serif' }}
                 >
                   Projets
@@ -113,7 +121,7 @@ export function Navbar() {
                 <Link
                   href="/about"
                   onClick={() => setOpen(false)}
-                  className="text-2xl font-medium text-[#020826] hover:text-[#8C7851] transition-colors"
+                  className={`text-2xl hover:text-[#8C7851] transition-colors ${pathname === '/about' ? 'font-semibold text-[#020826]' : 'font-medium text-[#020826]'}`}
                   style={{ fontFamily: 'Synonym, sans-serif' }}
                 >
                   À propos
@@ -132,6 +140,16 @@ export function Navbar() {
                 </Button>
               </motion.div>
             </nav>
+
+            {/* Footer — copyright */}
+            <div className="py-6 flex items-center justify-center shrink-0">
+              <span
+                className="text-xs text-[#716040]"
+                style={{ fontFamily: 'Synonym, sans-serif' }}
+              >
+                © 2025 Joseph Deffayet
+              </span>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>

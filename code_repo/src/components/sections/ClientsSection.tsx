@@ -5,7 +5,7 @@ import { testimonials, clientLogos, quoteIconSrc } from '@/data/testimonials';
 
 function TestimonialCard({ t }: { t: (typeof testimonials)[number] }) {
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-4 h-full">
       {/* Quote icon — 3rem × 3rem */}
       <div className="relative w-12 h-12 shrink-0">
         <Image
@@ -74,7 +74,7 @@ export function ClientsSection() {
       {/* Testimonials */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-5">
         {testimonials.map((t, i) => (
-          <FadeIn key={t.name} delay={i * 0.12}>
+          <FadeIn key={t.name} delay={i * 0.12} className="h-full">
             <TestimonialCard t={t} />
           </FadeIn>
         ))}

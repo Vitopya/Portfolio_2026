@@ -14,9 +14,6 @@ export function CTABanner() {
           >
             Un projet de transformation B2B complexe&nbsp;?
           </h2>
-        </FadeIn>
-
-        <FadeIn delay={0.1}>
           <p
             className="text-base font-normal text-[#FFFFFE] mb-8 leading-relaxed"
             style={{ fontFamily: 'Synonym, sans-serif' }}
@@ -24,9 +21,6 @@ export function CTABanner() {
             J&apos;accompagne les organisations qui conçoivent des outils pour utilisateurs experts,
             de la discovery à l&apos;impact livré, dans des environnements régulés et critiques.
           </p>
-        </FadeIn>
-
-        <FadeIn delay={0.2}>
           <Link
             href="mailto:joseph.deffayet.pro@gmail.com"
             className="inline-flex items-center gap-2 border border-[#F9F4EF] text-[#F9F4EF] text-base font-medium px-5 py-2 hover:bg-[#F9F4EF] hover:text-[#020826] transition-colors rounded-[4px]"
