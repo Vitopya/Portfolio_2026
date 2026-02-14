@@ -46,7 +46,7 @@ export function AboutHero() {
           - content sits at the bottom via flex layout
         */}
         <div
-          className="flex flex-col px-5 md:px-20 max-w-[80rem] mx-auto w-full"
+          className="flex flex-col px-5 md:px-20 max-w-[90rem] mx-auto w-full"
           style={{ minHeight: '72vh' }}
         >
           {/* Top spacer — grows to fill space, stays minimum 5rem to clear navbar */}
@@ -71,7 +71,7 @@ export function AboutHero() {
             </FadeIn>
             <FadeIn delay={0.1}>
               <p
-                className="text-base font-normal text-[#020826] md:max-w-[50%]"
+                className="text-base font-normal text-[#020826] md:whitespace-nowrap"
                 style={{ fontFamily: 'Synonym, sans-serif' }}
               >
                 Je travaille avec et pour des gens qui en savent plus que moi,

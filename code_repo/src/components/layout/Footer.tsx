@@ -9,7 +9,7 @@ export function Footer() {
 
   return (
     <footer className="bg-[#EADDCF] border-t border-[#8C7851]">
-      <div className="max-w-[80rem] mx-auto px-5 md:px-20">
+      <div className="max-w-[90rem] mx-auto px-5 md:px-20">
         {/* Top row — logo left, nav+CTA grouped right (desktop only) */}
         <div className="py-6 flex flex-row items-center justify-between gap-4">
           {/* Logo — always visible */}
@@ -25,7 +25,7 @@ export function Footer() {
           <div className="hidden md:flex items-center gap-8">
             <Link
               href="/projects"
-              className={`text-base hover:text-[#020826] transition-colors ${pathname === '/projects' ? 'font-semibold text-[#020826]' : 'font-normal text-[#716040]'}`}
+              className={`text-base hover:text-[#020826] transition-colors ${pathname.startsWith('/projects') ? 'font-semibold text-[#020826]' : 'font-normal text-[#716040]'}`}
               style={{ fontFamily: 'Synonym, sans-serif' }}
             >
               Projets

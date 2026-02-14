@@ -59,7 +59,7 @@ function ArticleCard({ article }: { article: (typeof articles)[number] }) {
 
 export function ArticlesSection() {
   return (
-    <section className="py-12 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+    <section className="py-12 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
       <FadeIn>
         <SectionLabel>Derniers articles</SectionLabel>
       </FadeIn>

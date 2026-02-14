@@ -23,7 +23,7 @@ export function Navbar() {
     <>
       {/* ── Persistent header ──────────────────────────────────── */}
       <header className="fixed top-0 left-0 right-0 z-50 bg-[#F9F4EF]/90 backdrop-blur-sm">
-        <div className="max-w-[80rem] mx-auto px-5 md:px-20 h-20 flex items-center justify-between">
+        <div className="max-w-[90rem] mx-auto px-5 md:px-20 h-20 flex items-center justify-between">
           {/* Logo */}
           <Link
             href="/"
@@ -38,7 +38,7 @@ export function Navbar() {
           <nav className="hidden md:flex items-center gap-8">
             <Link
               href="/projects"
-              className={`text-base hover:text-[#8C7851] transition-colors ${pathname === '/projects' ? 'font-semibold text-[#020826]' : 'font-normal text-[#020826]'}`}
+              className={`text-base hover:text-[#8C7851] transition-colors ${pathname.startsWith('/projects') ? 'font-semibold text-[#020826]' : 'font-normal text-[#020826]'}`}
               style={{ fontFamily: 'Synonym, sans-serif' }}
             >
               Projets
@@ -105,7 +105,7 @@ export function Navbar() {
                 <Link
                   href="/projects"
                   onClick={() => setOpen(false)}
-                  className={`text-2xl hover:text-[#8C7851] transition-colors ${pathname === '/projects' ? 'font-semibold text-[#020826]' : 'font-medium text-[#020826]'}`}
+                  className={`text-2xl hover:text-[#8C7851] transition-colors ${pathname.startsWith('/projects') ? 'font-semibold text-[#020826]' : 'font-medium text-[#020826]'}`}
                   style={{ fontFamily: 'Synonym, sans-serif' }}
                 >
                   Projets

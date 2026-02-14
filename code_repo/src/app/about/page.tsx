@@ -99,13 +99,13 @@ export default function AboutPage() {
 
       {/* ── 2. En quelques mots — #FAFAFA band, portrait chevauchant hero ── */}
       <section className="bg-[#FAFAFA] py-16 md:py-20">
-        <div className="px-5 md:px-20 max-w-[80rem] mx-auto">
+        <div className="px-5 md:px-20 max-w-[90rem] mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-[1fr_22rem] lg:grid-cols-[1fr_26rem] gap-8 md:gap-14 items-start">
 
             {/* Left — section label + text + CTA */}
             <div className="flex flex-col gap-6">
               <FadeIn>
-                <SectionLabel>En quelques mots</SectionLabel>
+                <SectionLabel className="mb-0">En quelques mots</SectionLabel>
               </FadeIn>
 
               {/* Portrait — mobile only, between label and text */}
@@ -182,7 +182,7 @@ export default function AboutPage() {
 
       {/* ── 3. Stats Band ─────────────────────────────────────────── */}
       <div className="bg-[#020826] py-12 md:py-16">
-        <div className="px-5 md:px-20 max-w-[80rem] mx-auto">
+        <div className="px-5 md:px-20 max-w-[90rem] mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-4">
             {stats.map((stat, i) => (
               <FadeIn key={stat.label} delay={i * 0.08}>
@@ -216,7 +216,7 @@ export default function AboutPage() {
       </div>
 
       {/* ── 4. Expériences ────────────────────────────────────────── */}
-      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
         <FadeIn>
           <SectionLabel>Expériences</SectionLabel>
         </FadeIn>
@@ -275,7 +275,7 @@ export default function AboutPage() {
       </section>
 
       {/* ── 5. Formations & Certifications ────────────────────────── */}
-      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
         <FadeIn>
           <SectionLabel>Formations &amp; Certifications</SectionLabel>
         </FadeIn>
@@ -358,7 +358,7 @@ export default function AboutPage() {
       </section>
 
       {/* ── 6. Approach ───────────────────────────────────────────── */}
-      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+      <section className="py-16 md:py-20 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
         <FadeIn>
           <h2
             className="font-bold text-[#020826] leading-tight mb-3"

@@ -34,7 +34,7 @@ export function HeroSection() {
   const y = useTransform(scrollY, [0, heroHeight], [0, -48]);
 
   return (
-    <section ref={sectionRef} className="pt-10 pb-20 px-5 md:px-20 max-w-[80rem] mx-auto">
+    <section ref={sectionRef} className="pt-20 md:pt-24 pb-8 md:pb-20 px-5 md:px-20 max-w-[90rem] mx-auto">
       <motion.div style={{ opacity, y }}>
 
         {/* Eyebrow */}
@@ -50,10 +50,10 @@ export function HeroSection() {
           className="font-bold leading-none mb-4 md:mb-6"
           style={{ fontFamily: 'Amulya, serif' }}
         >
-          {/* "Product Designer" — large dark navy, never wraps before 1024px */}
+          {/* "Product Designer" — large dark navy */}
           <span
             className="text-[#020826] block leading-tight"
-            style={{ fontSize: 'clamp(2.25rem, 7vw, 7.5rem)' }}
+            style={{ fontSize: 'clamp(4.6875rem, 8.75vw, 9.375rem)' }}
           >
             Product Designer
           </span>
@@ -61,11 +61,11 @@ export function HeroSection() {
           {/* "& Strategist" — second line, "&" smaller accent */}
           <span
             className="block leading-tight"
-            style={{ fontSize: 'clamp(1.875rem, 5.5vw, 6rem)' }}
+            style={{ fontSize: 'clamp(3.75rem, 6.875vw, 7.5rem)' }}
           >
             <span
               className="text-[#716040]"
-              style={{ fontSize: 'clamp(1.125rem, 3vw, 3.5rem)' }}
+              style={{ fontSize: 'clamp(2.625rem, 4.2vw, 4.9rem)' }}
             >
               &amp;
             </span>
@@ -130,7 +130,7 @@ export function HeroSection() {
         {/* Scroll indicator */}
         <div className="flex justify-center mt-16">
           <ChevronDown
-            size={20}
+            size={30}
             strokeWidth={1.5}
             className="text-[#716040] animate-bounce"
           />

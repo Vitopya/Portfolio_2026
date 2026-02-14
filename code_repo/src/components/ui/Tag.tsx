@@ -15,6 +15,10 @@ const tagConfig: Record<TagType, { label: string; className: string }> = {
     label: 'User Research',
     className: 'bg-[#E9D4FF] text-[#020826]',
   },
+  'ux-ui-design': {
+    label: 'UX/UI design',
+    className: 'bg-[#A4F4CF] text-[#020826]',
+  },
 };
 
 interface TagProps {

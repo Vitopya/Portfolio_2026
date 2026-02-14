@@ -6,7 +6,7 @@ import { FadeIn } from '@/components/ui/FadeIn';
 
 export function AboutSection() {
   return (
-    <section className="py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+    <section className="py-20 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
       <FadeIn>
         <SectionLabel>À propos</SectionLabel>
       </FadeIn>

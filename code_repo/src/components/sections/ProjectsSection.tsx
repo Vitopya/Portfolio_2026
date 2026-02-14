@@ -8,7 +8,7 @@ import { projects } from '@/data/projects';
 
 function ProjectCard({ project }: { project: (typeof projects)[number] }) {
   return (
-    <article className="group flex flex-col p-2 gap-4 rounded-[4px] border border-[#EADDCF] bg-[#FAFAFA] hover:bg-[#F9F4EF] transition-colors duration-200">
+    <article className="group flex flex-col p-2 gap-4 rounded-[4px] border border-[#EADDCF] bg-[#FAFAFA] hover:bg-[#F9F4EF] transition-colors duration-200 h-full">
       {/* Frame 104 — image + tags & role on same row */}
       <div className="flex flex-col gap-2">
         <div className="relative w-full h-[15rem] overflow-hidden rounded-[4px] bg-[#EADDCF]">
@@ -71,15 +71,16 @@ export function ProjectsSection() {
 
   return (
     <section className="bg-[#FAFAFA] py-12">
-      <div className="max-w-[80rem] mx-auto px-5 md:px-20">
-        <FadeIn>
+      <div className="max-w-[90rem] mx-auto px-5 md:px-20">
+        {/* viewportMargin large positive = triggers before entering viewport = visible on page load */}
+        <FadeIn viewportMargin="999px">
           <SectionLabel>Projets</SectionLabel>
         </FadeIn>
 
         {/* Responsive grid: 1 col mobile → 2 col desktop */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {featured.map((project, i) => (
-            <FadeIn key={project.slug} delay={i * 0.1}>
+            <FadeIn key={project.slug} delay={i * 0.1} className="h-full">
               <ProjectCard project={project} />
             </FadeIn>
           ))}

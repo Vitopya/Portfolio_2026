@@ -46,7 +46,7 @@ function TestimonialCard({ t }: { t: (typeof testimonials)[number] }) {
 
 export function ClientsSection() {
   return (
-    <section className="py-20 px-5 md:px-20 max-w-[80rem] mx-auto w-full">
+    <section className="py-20 px-5 md:px-20 max-w-[90rem] mx-auto w-full">
       <FadeIn>
         <SectionLabel>Clients &amp; Références</SectionLabel>
       </FadeIn>
